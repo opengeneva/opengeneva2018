@@ -9,6 +9,9 @@
 
 /* Reset */
 
+
+
+
 @font-face {
     font-family: avenir;
     src: url(../fonts/Avenir-Medium.ttf);
@@ -2042,7 +2045,7 @@
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
 		background: #c1efff url("images/banner.svg") bottom center no-repeat;
-		padding: 2em 0 5em 0;
+		padding: 2em 0 10em 0;
 		margin: 0;
 		background-size: 125% auto;
 	}
