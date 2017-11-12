@@ -35,3 +35,45 @@ exclude:
   - Gemfile.lock
 
 excerpt_separator: <!--more-->
+
+
+t:
+  en:
+    home:
+      name: "Home"
+      url: "/"
+      display : false
+    register:
+      name: "Register"
+      url : "/register/"
+      display : true
+    archive :
+      name : "Archive"
+      url: "/archive/"
+      display : true
+    about:
+      name: "About"
+      url: "/about/"
+      display : true
+    baseline: "<strong>An Open Innovation Festival</strong> <br> for science, technology & society"
+
+
+
+  fr:
+    home:
+      name: "Accueil"
+      url: "/accueil/"
+      display : false
+    register:
+      name: "Participer"
+      url : "/participer/"
+      display : true
+    archive:
+      name : "Archives"
+      url : "/archives"
+      display : true
+    about:
+      name: "À propos"
+      url: "/apropos/"
+      display : true
+    baseline: "<strong>Festival d'Innovation Ouverte</strong> <br>science, technologie & société"
