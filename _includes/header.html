@@ -32,7 +32,7 @@
 
             {% for menu in navigation %}
               {% if menu[1].display == true %}
-                <a href="{{ menu[1].url }}" text-transform="uppercase">{{ menu[1].name }}</a>&nbsp; &nbsp;
+                <a href="{{ site.baseurl }}{{ menu[1].url }}" text-transform="uppercase">{{ menu[1].name }}</a>&nbsp; &nbsp;
                 {% endif %}
             {% endfor %}
 
@@ -41,7 +41,7 @@
           <a href="{{ site.baseurl }}/archive/" >ARCHIVE</a> &nbsp; &nbsp;
           <a href="{{ site.baseurl }}/about/" >ABOUT</a> &nbsp; &nbsp;
           -->
-          <a href="/" >ENG</a> | <a href="accueil" >FR</a>   &nbsp; &nbsp;
+          <a href="{{ site.baseurl }}{{site.t['fr'].[page.ref].url}}" >FR</a> | <a href="{{ site.baseurl }}{{site.t['en'].[page.ref].url}}" >ENG</a>   &nbsp; &nbsp;
           {% include social-media.html %}
       </strong>
       </div>
