@@ -24,10 +24,12 @@ advertising the event to help gather community momentum. There is a focus on
 having interested innovators with desired skills.
 
 
-
-<p style="text-align: center;"><strong>
--- registration will be soon open --
+<br>
+<p>
+<p style="font-size: 22px"><strong>
+<a href="https://goo.gl/forms/squpuIoTCzXE7F9y1">event registration form</a>
 </strong></p>
+</p>
 
 <br>
 # jan - apr 2018 | **get prepared & organize an event**

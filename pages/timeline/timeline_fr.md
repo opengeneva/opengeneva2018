@@ -24,9 +24,11 @@ Dès qu'un événement a été proposé et accepté, Open Geneva commence à
 promouvoir l'événement pour aider les organisateurs a rassembler une communauté.
 Open Geneva essaie d'attirer des talents qui peuvent aider à la réussite de l'événement.
 
-<p style="text-align: center;"><strong>
--- inscription d'événements disponible très bientôt --
-</strong></p>
+<br>
+<p style="font-size: 22px"><strong>
+<a href="https://goo.gl/forms/TjyL2rrH9OArOzio2">formulaire d'annonce d'événement</a>
+</strong>
+</p>
 
 <br>
 # jan - apr 2018 | **se préparer & organiser un événement**

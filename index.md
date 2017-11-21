@@ -10,4 +10,26 @@ permalink : /
 ---
 
 
+# call for event proposals for Festival Open Geneva
+
+Registration for event proposals is now open. During the warm-up period,
+ideas and projects in the making are very welcome. If you wish, we will announce your project
+and thus help you to gather a community to help you bootstrap your event.
+
+We encourage to feature and share your event project ideas early, in a way that other
+organizations, institutions and citizen can further help you gain traction.
+
+<br>
+<p>
+<p style="font-size: 22px"><strong>
+<a href="https://goo.gl/forms/squpuIoTCzXE7F9y1">event registration form</a>
+</strong></p>
+</p>
+<br><br>
+
+
+# video interview presenting Open Geneva
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RoMvHejce2c" frameborder="0" allowfullscreen></iframe>
