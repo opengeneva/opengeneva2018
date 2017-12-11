@@ -179,6 +179,7 @@ pre {
   line-height: 60px;
   margin-top: 20px;
   margin-left: 100px;
+  z-index : 2000;
   text-transform: uppercase; }
   .site-nav .menu-icon {
     display: none; }
