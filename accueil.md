@@ -9,6 +9,12 @@ ref: home
 permalink : /accueil/
 ---
 
+# soutien de Pierre Maudet
+#### Conseiller d'Etat, Département de la Sécurité et de l'Economie, Canton de Genève
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/skUuy7sSZec" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+<br><br>
 # annoncer un événement pour le Festival Open Geneva
 
 Vous pouvez dès à présent annoncer un projet d'événement qui sera listé comme faisant
@@ -26,4 +32,4 @@ d'autres organisations, institutions et citoyens qui souhaiteraient aider.
 <br><br>
 # video interview présentant Open Geneva
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hwsQyZ5uDKM" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/hwsQyZ5uDKM" frameborder="0" allowfullscreen></iframe>

@@ -9,6 +9,11 @@ ref: home
 permalink : /
 ---
 
+# address by Pierre Maudet
+####  State Councillor in charge of the Department of security and economy,  Republic and State of Geneva 
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/skUuy7sSZec?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br><br>
 
 # call for event proposals for Festival Open Geneva
 
@@ -32,4 +37,5 @@ organizations, institutions and citizen can further help you gain traction.
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RoMvHejce2c" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="225"
+src="https://www.youtube.com/embed/RoMvHejce2c" frameborder="0" allowfullscreen></iframe>
