@@ -68,8 +68,6 @@ t:
       display : true
     baseline: "<strong>An Open Innovation Festival</strong> <br> for science, technology & society"
 
-
-
   fr:
     home:
       name: "Accueil"
@@ -96,3 +94,30 @@ t:
       url: "/apropos/"
       display : true
     baseline: "<strong>Festival d'Innovation Ouverte</strong> <br>science, technologie & société"
+
+  zh:
+     home:
+       name: "Home"
+       url: "/活动进展/"
+       display : false
+     program :
+       name: "Program"
+       url: "/program/"
+       display : false
+     timeline :
+       name: "活动进展"
+       url: "/活动进展/"
+       display : true
+     register:
+       name: "Register"
+       url : "/register/"
+       display : false
+     archive :
+       name : "当年今日"
+       url: "/当年今日/"
+       display : true
+     about:
+       name: "关于我们"
+       url: "/关于我们/"
+       display : true
+     baseline: "<strong>An Open Innovation Festival</strong> <br> for science, technology & society"
