@@ -15,7 +15,7 @@ permalink : /
 <iframe width="400" height="225" src="https://www.youtube.com/embed/skUuy7sSZec?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br><br>
 
-# call for event proposals for Festival Open Geneva
+# call for event proposals for Open Geneva
 
 Registration for event proposals is now open. During the warm-up period,
 ideas and projects in the making are very welcome. If you wish, we will announce your project
