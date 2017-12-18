@@ -14,14 +14,14 @@ septembre et culmine avec le Festival d'Innovation Ouverte en avril l'année sui
 
 
 # sept - dec 2017 | **warm up & proposer un événement**
-Pendant la phase **warm-up**, les organisation privés, les institutions publiques,
+Pendant la phase **warm-up**, les organisations privées, les institutions publiques,
 les associations et les citoyens identifient des problèmes qui méritent d'être résolus
 de manière pratique dans l'esprit de l'**innovation ouverte**. Lorsqu'un concept d'événement
 solide a été maturé, les organisateurs inscrivent les événements. Open Geneva
 accueille toutes sortes d'événements, tels que des hackathons, des ateliers, des portes ouvertes, des conférences.
 
 Dès qu'un événement a été proposé et accepté, Open Geneva commence à
-promouvoir l'événement pour aider les organisateurs a rassembler une communauté.
+promouvoir l'événement pour aider les organisateurs à rassembler une communauté.
 Open Geneva essaie d'attirer des talents qui peuvent aider à la réussite de l'événement.
 
 <br>
@@ -51,7 +51,7 @@ Ponctuellement, Open Geneva peut fournir un soutien direct - via du consulting, 
 **Conférences**
 
 Au début et pendant le festival, des conférences sont organisées pour inspirer
-les participants, et encourager l'innovation ouverte pour l'avancement de la science, de la technologie et la société. Les conférences sont organisées en collaboration avec nos partenaires et diffusées en ligne.
+les participants, et encourager l'innovation ouverte pour l'avancement de la science, de la technologie et de la société. Les conférences sont organisées en collaboration avec nos partenaires et diffusées en ligne.
 
 <br>
 **Hackathons & Ateliers**
@@ -67,8 +67,8 @@ Les hackathons et les ateliers auront lieu principalement les vendredi 13 et sam
 <br>
 **After hack & Cocktail**
 
-Dimanche 15 avril (après-midi), tous les innovateurs ayant participé à tous les hackathons se retrouvent pour
-partager leurs résultats. Des courtes présentations orales ont lieu, ainsi des présentations de posters et de prototypes. Dans une ambiance festive et relaxée, un cocktail est offert. **After Hack** est une unique opportunité pour échanger du savoir à travers les disciplines. Par exemple, un bioinformaticien va peut-être échanger un point de vue avec un innovateur social, un médecin va s'intéresser à un projet de gestion intelligente de l'énergie, etc.
+Dimanche 15 avril (après-midi), tous les innovateurs ayant participé aux hackathons se retrouvent pour
+partager leurs résultats. De courtes présentations orales ont lieu, ainsi que des présentations de posters et de prototypes. Dans une ambiance festive et relaxée, un cocktail est offert. **After Hack** est une unique opportunité pour échanger du savoir à travers les disciplines. Par exemple, un bioinformaticien va peut-être échanger un point de vue avec un innovateur social, un médecin va s'intéresser à un projet de gestion intelligente de l'énergie, etc.
 
 
 <br><a href="/images/archives/afterhack.png"><img src="/images/archives/afterhack.png" width="100%"><br><br></a>
