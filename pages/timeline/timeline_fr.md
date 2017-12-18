@@ -6,7 +6,7 @@ ref: timeline
 permalink : /deroulement/
 ---
 
-Open Geneva est une infrastructure du support à l'innovation ouverte qui démarre
+Open Geneva est une infrastructure du support à l'innovation ouverte qui démarre en
 septembre et culmine avec le Festival d'Innovation Ouverte en avril l'année suivante.
 
 <br><br><a href="/images/timeline.png"><img src="/images/timeline.png" width="90%"><br><br><br></a>
