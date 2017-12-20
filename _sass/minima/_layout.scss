@@ -41,8 +41,11 @@
   &:visited {
     color: $grey-color-dark;
   }
-}
 
+  @include media-query($mobile) {
+    display: none;
+  }
+}
 
 .site-nav {
   float: right;
