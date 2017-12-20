@@ -1,1 +1,10 @@
-_site/*
+; Ignore Jekyll related folders
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+; Ignore npm and bundled app
+assets/bundle.js
+node_modules
+
