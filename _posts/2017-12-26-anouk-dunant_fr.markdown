@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Geneva Hackathons et données culturelles "
 date:   2017-12-25 00:00:00 +0200
-author : "Anouk Dunant Donzenbach"
+author : "Anouk Dunant Gonzenbach"
 original_post : http://hieretdemain.ch/author/anouk-dunant-gonzenbach/
 categories: news
 lang: fr
