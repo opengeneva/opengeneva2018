@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title:  déroulement
 lang: fr
 ref: program

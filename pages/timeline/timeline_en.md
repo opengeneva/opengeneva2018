@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title:  timeline
 lang: en
 ref: timeline
