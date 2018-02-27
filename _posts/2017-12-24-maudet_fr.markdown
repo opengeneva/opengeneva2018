@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Soutien de Pierre Maudet"
+date:   2017-12-24 00:00:00 +0200
+categories: news
+lang: fr
+published: true
+---
+
+####  Conseiller d'Etat, Département de la Sécurité et de l'Economie, <br> République et Canton de Genève
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/skUuy7sSZec" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

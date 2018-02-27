@@ -2,10 +2,14 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">Partenaires / Partners</h2>
-
     <div class="myrow">
-        <div class="col-12 mylogos">{% include partner_list.html %}</div>
+        <h2>{{site.t[page.lang].main_partners}}</h2>
+        <div class="col-12 mylogos">{% include partners/main_partners.html %}</div>
+    </div>
+
+    <div class="myrow"><br>
+        <h2> {{site.t[page.lang].academic_partners}} </h2>
+        <div class="col-12 mylogos">{% include partners/academic_partners.html %}</div>
     </div>
 
 

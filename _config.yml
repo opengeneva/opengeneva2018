@@ -46,6 +46,10 @@ t:
       name: "Home"
       url: "/"
       display : false
+    register:
+      name: "Register"
+      url : "/register/"
+      display : true
     program :
       name: "Program"
       url: "/program/"
@@ -54,46 +58,51 @@ t:
       name: "Timeline"
       url: "/timeline/"
       display : true
-    register:
-      name: "Register"
-      url : "/register/"
-      display : false
+
     archive :
       name : "Archive"
       url: "/archive/"
-      display : true
+      display : false
     about:
       name: "About"
       url: "/about/"
       display : true
     baseline: "<strong>An Open Innovation Festival</strong> <br> for science, technology & society"
+    repost : "original post"
+    main_partners : "Main Partners"
+    acceleration_partners: "Acceleration Partners"
+    academic_partners : "Academic Partners"
 
   fr:
     home:
       name: "Accueil"
       url: "/accueil/"
       display : false
+    register:
+      name: "Participer"
+      url : "/participer/"
+      display : true
     program :
-      name: "Déroulement"
-      url: "/deroulement/"
+      name: "Programme"
+      url: "/programme/"
       display : false
     timeline :
       name: "Déroulement"
       url: "/deroulement/"
       display : true
-    register:
-      name: "Participer"
-      url : "/participer/"
-      display : false
     archive:
       name : "Archives"
       url : "/archives/"
-      display : true
+      display : false
     about:
       name: "À propos"
       url: "/apropos/"
       display : true
     baseline: "<strong>Festival d'Innovation Ouverte</strong> <br>science, technologie & société"
+    repost: "post original"
+    main_partners : "Partenaires Principaux"
+    acceleration_partners: "Partenaires Accélération"
+    academic_partners : "Partneraires Académiques"
 
   zh:
      home:
@@ -115,7 +124,7 @@ t:
      archive :
        name : "当年今日"
        url: "/当年今日/"
-       display : true
+       display : false
      about:
        name: "关于我们"
        url: "/关于我们/"

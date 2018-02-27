@@ -1,23 +1,11 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title : home
-layout: home
-lang : en
-ref: home
-permalink : /
+layout: post
+title:  "Call for Participation"
+date:   2018-01-06 00:00:00 +0200
+categories: news
+lang: en
+published: true
 ---
-
-
-
-
-<!--
-
-
-
-
-# call for event proposals for Open Geneva
 
 Registration for event proposals is now open. During the warm-up period,
 ideas and projects in the making are very welcome. If you wish, we will announce your project
@@ -33,7 +21,3 @@ organizations, institutions and citizen can further help you gain traction.
 </strong></p>
 </p>
 <br><br>
-
-
-
--->

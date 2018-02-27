@@ -3,12 +3,13 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title : accueil
-layout: page
+layout: home
 lang : fr
 ref: home
 permalink : /accueil/
 ---
 
+<!--
 # soutien de Pierre Maudet
 #### Conseiller d'Etat, Département de la Sécurité et de l'Economie, Canton de Genève
 
@@ -33,3 +34,4 @@ d'autres organisations, institutions et citoyens qui souhaiteraient aider.
 # video interview présentant Open Geneva
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/hwsQyZ5uDKM" frameborder="0" allowfullscreen></iframe>
+-->
