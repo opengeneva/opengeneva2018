@@ -13,7 +13,7 @@ permalink : /register/
 </p>
 
 <p style="font-size: 22px"><strong>
-Volunteer to help the organization (available soon)
+<a href="https://goo.gl/forms/SpsmEw7gPe5qt5YJ3">Volunteer to help the organization (now open)</a>
 </strong></p>
 
 <p style="font-size: 22px"><strong>
