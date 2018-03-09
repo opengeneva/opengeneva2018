@@ -13,7 +13,7 @@ permalink : /participer/
 </p>
 
 <p style="font-size: 22px"><strong>
-<a href="https://goo.gl/forms/SpsmEw7gPe5qt5YJ3">Aider à l'organisation de Open Geneva (bientôt disponible)</a>
+<a href="https://goo.gl/forms/SpsmEw7gPe5qt5YJ3">Aider à l'organisation de Open Geneva (inscriptions ouvertes)</a>
 </strong></p>
 
 <p style="font-size: 22px"><strong>
