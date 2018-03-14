@@ -8,10 +8,10 @@ published: true
 permalink: /acceleration/
 ---
 
-We are proud to announce the launch of the **Open Geneva Acceleration Partnerships**
+We are proud to announce the launch of the **Open Geneva Acceleration Partnerships**.
 
 We welcome incubators & accelerations programs to come to the Hack Show on April 15th 2018 to talk to innovators
-and invite applications to their programs. We are particularly interested in early-stage startup programs for
+and invite applications to their programs. We are particularly interested in early-stage startup programs for:
 
 * acceleration programs for education
 * non-profit & social impact
