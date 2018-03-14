@@ -8,7 +8,7 @@ permalink: /masschallenge/
 published: true
 ---
 
-Following the launch of the [Open Geneva Acceleration Program](/acceleration/), our very first **Acceleration Partner** is [Mass Challenge Switzerland](http://switzerland.masschallenge.org/), the leading Swiss accelerator. To celebrate the hand-shake between Open Geneva and Mass Challenge, [Mass Challenge Switzerland](http://switzerland.masschallenge.org/) has issued a special 100% discount credit code: **OPENGENEVA2018**. Use it and join a global network of 1495+ startups from 81countries, that have raised over $3 billion in funding, generated $2 billion in revenue, and created over 80.000 total jobs to date
+Following the launch of the [Open Geneva Acceleration Partnerships](/acceleration/), our very first **Acceleration Partner** is [Mass Challenge Switzerland](http://switzerland.masschallenge.org/), the leading Swiss accelerator. To celebrate the hand-shake between Open Geneva and Mass Challenge, [Mass Challenge Switzerland](http://switzerland.masschallenge.org/) has issued a special 100% discount credit code: **OPENGENEVA2018**. Use it and join a global network of 1495+ startups from 81countries, that have raised over $3 billion in funding, generated $2 billion in revenue, and created over 80.000 total jobs to date
 
 <center>
 <strong><a href="http://bit.ly/applymcch" target="_blank">Apply to Mass Challenge until 28th March <br>discount code : OPENGENEVA2018</a></strong>
