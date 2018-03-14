@@ -17,6 +17,7 @@ and invite applications to their programs. We are particularly interested in ear
 * non-profit & social impact
 * for-profit startup programs
 
+<!--more-->
 <br>
 
 We believe that the **Open Geneva Acceleration Partnerships** will tremendously help overcome the difficult *afterhack* phase that most projects face after hackathons. We not only welcome accelerators from Switzerland, but also from other countries. Our objective is to gather a broad set of partners to serve the diversity of projects produced during Open Geneva.
