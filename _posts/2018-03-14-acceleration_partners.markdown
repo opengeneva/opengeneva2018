@@ -8,7 +8,7 @@ published: true
 permalink: /acceleration/
 ---
 
-We are proud to announce the launch of the **Open Geneva Acceleration Program**
+We are proud to announce the launch of the **Open Geneva Acceleration Partnerships**
 
 We welcome incubators & accelerations programs to come to the Hack Show on April 15th 2018 to talk to innovators
 and invite applications to their programs. We are particularly interested in early-stage startup programs for
@@ -19,7 +19,7 @@ and invite applications to their programs. We are particularly interested in ear
 
 <br>
 
-We believe that the **Open Geneva Acceleration Program** will tremendously help overcome the difficult *afterhack* phase that most projects face after hackathons. Our objective is to gather a broad set of partners to serve the diversity of projects produced during Open Geneva. We not only welcome accelerators from Switzerland, but also from other countries.
+We believe that the **Open Geneva Acceleration Partnerships** will tremendously help overcome the difficult *afterhack* phase that most projects face after hackathons. We not only welcome accelerators from Switzerland, but also from other countries. Our objective is to gather a broad set of partners to serve the diversity of projects produced during Open Geneva.
 
 <br>
 The following acceleration partners have been invited to join Open Geneva 2018 :

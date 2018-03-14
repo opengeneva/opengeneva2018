@@ -20,7 +20,7 @@ If you want to learn first hand about how the program works, tour the accelerato
 
 <br>
 <br>
-<a href="http://switzerland.masschallenge.org/" target="_blank"><img src="{{ site.baseurl }}/images/partners/MCCH.png" height="40" alt="" class="imgspace" />
+<a href="http://switzerland.masschallenge.org/" target="_blank"><img src="{{ site.baseurl }}/images/partners/MCCH.png" height="60" alt="" class="imgspace" />
 </a>
 <br>
 
