@@ -3,12 +3,17 @@
   <div class="wrapper">
 
     <div class="myrow">
-        <h2>{{site.t[page.lang].main_partners}}</h2>
+        <h1>{{site.t[page.lang].main_partners}}</h1>
         <div class="col-12 mylogos">{% include partners/main_partners.html %}</div>
     </div>
 
-    <div class="myrow"><br>
-        <h2> {{site.t[page.lang].academic_partners}} </h2>
+    <div class="myrow"><br><br>
+        <h1> {{site.t[page.lang].acceleration_partners}} </h1>
+        <div class="col-12 mylogos">{% include partners/acceleration_partners.html %}</div>
+    </div>
+
+    <div class="myrow"><br><br>
+        <h1> {{site.t[page.lang].academic_partners}} </h1>
         <div class="col-12 mylogos">{% include partners/academic_partners.html %}</div>
     </div>
 
