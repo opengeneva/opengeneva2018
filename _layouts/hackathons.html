@@ -1,0 +1,77 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <!-- <h1 class="post-title">{{ page.title | escape }}</h1> -->
+  </header>
+
+  <div class="post-content">
+
+    <ul>
+      <h2><strong>Hackathons</strong> (currently unrolling)</h2>
+      {% for event in site.events %}
+
+      {% if event.published %}
+        <br>
+
+<!--
+          <h1>
+            <a class="post-link" href="{{ event.url | prepend: site.baseurl }}">{{ event.event_title }}</a>
+            {{ event.event_title }}
+          </h1>
+          <p>{{ event.event_description }}</p>
+        -->
+          <!--<a href="{{event.url_moreinfo}}" target="_blank"><img src="{{ site.baseurl }}/images/events/logos/{{event.url_logo}}" height="80" alt="" class="imgspace" /></a>-->
+          <hr>
+
+
+          <h3><strong><a name = "{{event.fileroot}}" >{{event.event_title}}</a></strong></h3>
+          {% if event.url_flyer %}
+            <a href="{{event.url_moreinfo}}" target="_blank"><img src="{{ site.baseurl }}/images/events/flyers/{{event.url_flyer}}" height="125" alt="" class="imgspace" /></a>
+          {% else %}
+            <a href="{{event.url_moreinfo}}" target="_blank"><img src="{{ site.baseurl }}/images/events/logos/{{event.url_logo}}" height="125" alt="" class="imgspace" /></a>
+          {% endif %}
+          <br><br>
+          <strong>Organiser(s) :</strong> {{event.institution}}<br>
+          <strong>Language(s) :</strong> {{event.language}}<br>
+          <strong>Description : </strong> {{event.event_description}}<br>
+          <!--<strong>Challenges : </strong> {{event.event_challenges}}<br>-->
+          <strong>Starts : </strong> {{event.when_start}}&nbsp&nbsp&nbsp&nbsp<strong>Ends : </strong> {{event.when_end}}<br>
+          <strong>Location : </strong> {{event.location_address}}<br>
+
+          <br>
+          <h4>
+            {% if event.url_moreinfo %}
+            <strong><a href="{{event.url_moreinfo}}" target="_blank">more information</a></strong>
+            {% endif %}
+
+            {% if event.url_registration and event.url_moreinfo %}
+            &nbsp&nbsp | &nbsp&nbsp
+            {% endif %}
+
+            {% if event.url_registration %}
+              <strong><a href="{{event.url_registration}}" target="_blank">register</a></strong>
+            {% endif %}
+
+            {% if event.url_registration and event.url_sparkboard %}
+            &nbsp&nbsp | &nbsp&nbsp
+            {% endif %}
+
+            {% if event.url_sparkboard %}
+              <strong><a href="{{event.url_sparkboard}}" target="_blank">sparkboard</a></strong>
+            {% endif %}
+
+          </h4>
+
+
+
+
+
+        {% endif %}
+  {% endfor %}
+</ul>
+  </div>
+
+</article>

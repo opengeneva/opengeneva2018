@@ -39,26 +39,41 @@ exclude:
 
 excerpt_separator: <!--more-->
 
+collections:
+  events :
+    output : true
+
+    defaults:
+        values:
+          layout: events
+
 
 t:
   en:
     home:
-      name: "Home"
+      name: "News"
       url: "/"
-      display : false
-    register:
-      name: "Register"
-      url : "/register/"
       display : true
+    hackathons:
+      name: "Hackathons"
+      url : "/hackathons/"
+      display : false
     program :
       name: "Program"
       url: "/program/"
+      display : true
+    hackshow :
+      name: "Hack Show"
+      url: "/hackshow/"
       display : false
     timeline :
       name: "Timeline"
       url: "/timeline/"
-      display : true
-
+      display : false
+    register:
+      name: "Register"
+      url : "/register/"
+      display : false
     archive :
       name : "Archive"
       url: "/archive/"
@@ -77,19 +92,23 @@ t:
     home:
       name: "Accueil"
       url: "/accueil/"
+      display : true
+    hackathons:
+      name: "Hackathons"
+      url : "/hackathons/"
+      display : false
+    program :
+      name: "Programme"
+      url: "/program/"
+      display : true
+    timeline :
+      name: "Déroulement"
+      url: "/deroulement/"
       display : false
     register:
       name: "Participer"
       url : "/participer/"
-      display : true
-    program :
-      name: "Programme"
-      url: "/programme/"
       display : false
-    timeline :
-      name: "Déroulement"
-      url: "/deroulement/"
-      display : true
     archive:
       name : "Archives"
       url : "/archives/"
