@@ -73,7 +73,7 @@ t:
     register:
       name: "Register"
       url : "/register/"
-      display : false
+      display : true
     archive :
       name : "Archive"
       url: "/archive/"
@@ -108,7 +108,7 @@ t:
     register:
       name: "Participer"
       url : "/participer/"
-      display : false
+      display : true
     archive:
       name : "Archives"
       url : "/archives/"
