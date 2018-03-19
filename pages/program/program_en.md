@@ -33,8 +33,6 @@ permalink : /program/
 ### ***Tuesday 10th April 2018 | Hackathons***
 
 * **all day :** [Gender Equality Hack @ Campus Biotech]({{ site.baseurl }}/hackathons/#10__Gender_Equality)
-* **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon)
-
 
 <br>
 <hr>
@@ -66,6 +64,7 @@ permalink : /program/
 <hr>
 ### ***Saturday 14th April 2018 | Hackathons***
 
+* **9am -5pm :** [Hackathon pour la Transition]({{ site.baseurl }}/hackathons/#06__Hackathon_pour_la_transition)
 * **1pm - 5pm :** [Lift:Youth SDG Hackathon @ Ecol'Int]({{ site.baseurl }}/hackathons/#02__Lift_Youth_SDG_Hackathon)
 * **1:30pm - 6pm :** [Scratch programming for kids by Swiss Institue of Bioinformatics @ Ecol'Int]({{ site.baseurl }}/hackathons/#07__Scratch_programming_for_kids)
 
