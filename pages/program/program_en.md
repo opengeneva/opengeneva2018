@@ -22,7 +22,7 @@ permalink : /program/
 
 
 * **9am - 11am :** [Panel on Open Innovation for SMB Growth ](https://www.ccig.ch/agenda/2018/04/Linnovation-au-service-de-la-croissance-des-PME-Le-hackathon-pour-les-Nuls){:target="_blank"} (in French)
-* **11am - 12pm :** Press Conference
+* **11:30am - 12:30pm :** Press Conference
 
 * **2pm - 4pm :** [Organisez votre propre hackathon pour les TPE/PME](https://www.ccig.ch/agenda/2018/04/Organisez-votre-propre-hackathon), with [Best for Geneva](https://bestforgeneva.ch/) (in French)
 * **4pm - 6pm :** Kick off meeting with all hackathon & event organizers  
@@ -75,7 +75,7 @@ permalink : /program/
 * **7pm - 9pm :** Party warm-up for hackathon participants @ Campus Hippomène
 * **7pm - 4am :** Hackathon participants prepare their posters @ Campus Hippomène
 * **7pm - 4am :** Hackathon participants party and/or continue hacking @ Campus Hippomène
-* **9pm - 4am :** [Open Geneva Silent Party @ Campus Hippomène](https://www.facebook.com/events/1992859280728327/) (organized by [Genève Ville Vivante](https://www.geneve-ville-vivante.ch/) )
+* **9pm - 4am :** [Open Geneva Silent Party - location to be updated](https://www.facebook.com/events/1992859280728327/) (organized by [Genève Ville Vivante](https://www.geneve-ville-vivante.ch/) )
 
 <br>
 <hr>
