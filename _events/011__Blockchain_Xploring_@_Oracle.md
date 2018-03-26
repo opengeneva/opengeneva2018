@@ -1,9 +1,9 @@
 ---
 layout: events
-fileroot : 11__Blockchain_Xploring_@_Oracle
+fileroot : 011__Blockchain_Xploring_@_Oracle
 Request sent/ or ready to publish : 
 published : TRUE
-order : 11_
+order : 011_
 language : English & French (remix)
 institution : Oracle
 event_title : Blockchain Xploring @ Oracle
@@ -12,13 +12,13 @@ event_description : Oracle is interested in supporting a Blockchain themed Hacka
 event_type : hackathon
 url_logo : oracle.png
 url_flyer : 
-url_moreinfo : 
-url_registration : 
+url_moreinfo : https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x543914abcd
+url_registration : https://eventreg.oracle.com/profile/form/index.cfm?PKformID=0x6043844fc88&source=
 url_sparkboard : 
-location_address : World Trade Center II, Route de Pré-Bois 29, CH - 1215 Genève
+location_address : Oracle Geneva Office ,Route de Pre-Bois 29,1215 Geneva, Switzerland
 location_map : 
-when_start : t.b.a.
-when_end : t.b.a.
+when_start : 13-04-2018 18:00
+when_end : 14-04-2018 18:00
 twitter : 
 facebook : 
 linkedin : 

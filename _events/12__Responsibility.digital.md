@@ -15,7 +15,7 @@ url_flyer :
 url_moreinfo : http://www.responsibility.digital
 url_registration : 
 url_sparkboard : 
-location_address : t.b.a.
+location_address : Centre Universitaire Informatique, Université de Genève, Battelle - bâtiment A, 7, route de Drize, CH-1227 Carouge
 location_map : t.b.a.
 when_start : 13-04 morning
 when_end : 13-04 night

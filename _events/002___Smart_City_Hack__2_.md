@@ -1,12 +1,12 @@
 ---
 layout: events
-fileroot : 002__Smart_City_Hack_v2
+fileroot : 002___Smart_City_Hack__2_
 Request sent/ or ready to publish : 
 published : TRUE
 order : 002_
 language : English & French (remix)
 institution : Innobridge 
-event_title : Smart City Hack v2
+event_title : "Smart City Hack #2"
 event_challenges : Développer des quartiers plus connectés, améliorer les transports publics et la mobilité pour les quartiers, améliorer la sécurité dans les quartiers
 event_description : Smart Quartier, Mobilité, Sécurité
 event_type : hackathon

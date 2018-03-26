@@ -27,6 +27,9 @@ permalink : /program/
 * **2pm - 4pm :** [Organisez votre propre hackathon pour les TPE/PME](https://www.ccig.ch/agenda/2018/04/Organisez-votre-propre-hackathon), with [Best for Geneva](https://bestforgeneva.ch/) (in French)
 * **4pm - 6pm :** Kick off meeting with all hackathon & event organizers  
 
+<br>
+**Evening Event**
+* **6:15pm - 7:30pm :** Conférence sur la Citoyenneté Numérique @ FER Genève (more details soon)
 
 
 <br>
@@ -37,11 +40,20 @@ permalink : /program/
 * **all day :** [Gender Equality Hack @ Campus Biotech]({{ site.baseurl }}/hackathons/#10__Gender_Equality)
 
 <br>
+**Evening Event**
+* **3:30pm - 5:00pm :** [REGARDS CROISÉS SUR LA CRÉATIVITÉ ET L’INNOVATION @ Genève Aéroport](https://www.eventbrite.fr/e/billets-regards-croises-sur-la-creativite-et-linnovation-44193547089?utm_term=eventurl_text){:target="_blank"}
+
+<br>
 <hr>
 ### ***Wednesday 11th April 2018 | Hackathons***
 
 * **all day :** [Gender Equality Hack @ Campus Biotech]({{ site.baseurl }}/hackathons/#10__Gender_Equality)
 * **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon)
+
+<br>
+**Evening Event**
+* **6:15pm - 7:30pm :** Conference on GIS for GOOD @ FER Genève (more details soon)
+
 
 <br>
 <hr>

@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 12__ChezNous__c_est_ChezToi
-Request sent/ or ready to publish : 
+Request sent/ or ready to publish : x
 published : TRUE
 order : 12_
 language : French
