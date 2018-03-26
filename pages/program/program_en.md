@@ -8,24 +8,20 @@ permalink : /program/
 
 
 
-## Program (tentative)
-
-<br>
-### ***(((((  [List of Open Geneva hackathons - currently unrolling]({{ site.baseurl }}/hackathons/)  )))))***
 
 
+### ***-- [Check out the list of Open Geneva hackathons]({{ site.baseurl }}/hackathons/) --***
 
-<br>
-
+## **Program**
 <hr>
 ### ***Monday 9th April 2018 | Press Conference & Kick Off @ [CCIG](https://www.ccig.ch/)***
 
 
 * **9am - 11am :** [Panel on Open Innovation for SMB Growth ](https://www.ccig.ch/agenda/2018/04/Linnovation-au-service-de-la-croissance-des-PME-Le-hackathon-pour-les-Nuls){:target="_blank"} (in French)
-* **11:30am - 12:30pm :** Press Conference
+* **11:30am - 12:30pm :** Press Conference (French & English)
 
-* **2pm - 4pm :** [Organisez votre propre hackathon pour les TPE/PME](https://www.ccig.ch/agenda/2018/04/Organisez-votre-propre-hackathon), with [Best for Geneva](https://bestforgeneva.ch/) (in French)
-* **4pm - 6pm :** Kick off meeting with all hackathon & event organizers  
+* **2pm - 4pm :** [Organisez votre propre hackathon pour les TPE/PME](https://www.ccig.ch/agenda/2018/04/Organisez-votre-propre-hackathon){:target="_blank"}, with [CCIG](https://www.ccig.ch/) and [Best for Geneva](https://bestforgeneva.ch/) (in French)
+* **4pm - 6pm :** Kick off with all hackathon & event organizers  
 
 <br>
 **Evening Event**

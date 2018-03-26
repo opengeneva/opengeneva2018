@@ -48,14 +48,14 @@ t:
     home:
       name: "News"
       url: "/"
-      display : true
-    hackathons:
-      name: "Hackathons"
-      url : "/hackathons/"
       display : false
     program :
       name: "Program"
       url: "/program/"
+      display : true
+    hackathons:
+      name: "Hackathons"
+      url : "/hackathons/"
       display : true
     hackshow :
       name: "Hack Show"
@@ -68,7 +68,7 @@ t:
     register:
       name: "Register"
       url : "/register/"
-      display : true
+      display : false
     archive :
       name : "Archive"
       url: "/archive/"
@@ -87,15 +87,19 @@ t:
     home:
       name: "Accueil"
       url: "/accueil/"
-      display : true
-    hackathons:
-      name: "Hackathons"
-      url : "/hackathons/"
       display : false
     program :
       name: "Programme"
       url: "/program/"
       display : true
+    hackathons:
+      name: "Hackathons"
+      url : "/hackathons/"
+      display : true
+    hackshow :
+      name: "Hack Show"
+      url: "/hackshow/"
+      display : false
     timeline :
       name: "Déroulement"
       url: "/deroulement/"
@@ -103,7 +107,7 @@ t:
     register:
       name: "Participer"
       url : "/participer/"
-      display : true
+      display : false
     archive:
       name : "Archives"
       url : "/archives/"
