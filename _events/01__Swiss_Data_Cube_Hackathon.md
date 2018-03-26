@@ -19,7 +19,7 @@ location_address : Centre Universitaire Informatique, Université de Genève, Ba
 location_map : 
 when_start : 11-04-2018
 when_end : 13-04-2018
-twitter : SwissDataCube
+twitter : 
 facebook : 
 linkedin : 
 ---

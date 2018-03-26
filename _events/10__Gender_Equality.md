@@ -13,7 +13,7 @@ event_type : hackathon
 url_logo : Gender_equality_hackathon.png
 url_flyer : 
 url_moreinfo : https://www.unige.ch/gh18/doku.php
-url_registration : 
+url_registration : https://goo.gl/forms/w2ugafeUVFr3lgpt2
 url_sparkboard : 
 location_address : Campus Biotech, 9, Chemin des Mines - 1202 Genève
 location_map : 
