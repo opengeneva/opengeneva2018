@@ -23,11 +23,11 @@
 
             {% for menu in navigation %}
               {% if menu[1].display == true %}
-                <a href="{{ site.baseurl }}{{ menu[1].url }}" text-transform="uppercase">{{ menu[1].name }}</a>&nbsp; &nbsp;
+                <a href="{{ site.baseurl }}{{ menu[1].url }}" text-transform="uppercase">{{ menu[1].name }}</a>&nbsp; 
                 {% endif %}
             {% endfor %}
 
-           <a href="{{ site.baseurl }}{{site.t['en'].[page.ref].url}}" >ENG</a>  | <a href="{{ site.baseurl }}{{site.t['fr'].[page.ref].url}}" >FR</a> | <a href="{{ site.baseurl }}{{site.t['zh'].[page.ref].url}}" >中文</a>  &nbsp; &nbsp;
+           <a href="{{ site.baseurl }}{{site.t['en'].[page.ref].url}}" >ENG</a>  | <a href="{{ site.baseurl }}{{site.t['fr'].[page.ref].url}}" >FR</a> | <a href="{{ site.baseurl }}{{site.t['zh'].[page.ref].url}}" >中文</a> &nbsp;
           {% include social-media.html %}
       </strong>
       </div>

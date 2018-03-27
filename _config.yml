@@ -58,9 +58,9 @@ t:
       url : "/hackathons/"
       display : true
     hackshow :
-      name: "Hack Show"
+      name: "Hackshow"
       url: "/hackshow/"
-      display : false
+      display : true
     timeline :
       name: "Timeline"
       url: "/timeline/"
@@ -97,9 +97,9 @@ t:
       url : "/hackathons/"
       display : true
     hackshow :
-      name: "Hack Show"
-      url: "/hackshow/"
-      display : false
+      name: "Hackshow"
+      url: "/hackshow_fr/"
+      display : true
     timeline :
       name: "Déroulement"
       url: "/deroulement/"
