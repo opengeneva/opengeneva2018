@@ -23,7 +23,7 @@
 
             {% for menu in navigation %}
               {% if menu[1].display == true %}
-                <a href="{{ site.baseurl }}{{ menu[1].url }}" text-transform="uppercase">{{ menu[1].name }}</a>&nbsp; 
+                <a href="{{ site.baseurl }}{{ menu[1].url }}" text-transform="uppercase">{{ menu[1].name }}</a>&nbsp; &nbsp; 
                 {% endif %}
             {% endfor %}
 
