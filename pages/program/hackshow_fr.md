@@ -12,8 +12,12 @@ permalink : /hackshow_fr/
 
 Dans une ambiance conviviale et festive, le grand public est invité à venir découvrir la présentation des projets développés par les innovateurs durant les **[25+ hackathons]({{ site.baseurl }}/hackathons_fr)**.<br><br>
 
+Le **HACKSHOW** aura lieu le dimanche 15 avril de 14:30 à 19h30 au Campus de la HEAD.
 
-Le **HACKSHOW** aura lieu le dimanche 15 avril 14:30 - 19h30 au Campus de la HEAD.
+<br>
+<a href="https://www.eventbrite.com/e/open-geneva-hackshow-tickets-44587949758?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventname_text" target="_blank"><img src="{{ site.baseurl }}/images/sinscrire_button.png" width="300"></a><br><br>
+
+
 
 ### **Programme**
 * ***2:30pm :*** ouverture des portes
@@ -26,7 +30,7 @@ Le **HACKSHOW** aura lieu le dimanche 15 avril 14:30 - 19h30 au Campus de la HEA
 * ***5:50pm - 6pm :*** conclusion
 * ***6:00pm - 7:30pm :*** cocktail, posters & networking
 
-
+<br>
 ### **Accès**
 
 Campus de la HEAD<br>

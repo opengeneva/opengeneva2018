@@ -14,7 +14,11 @@ In a relaxed and festive atmosphere, citizen and people are invited to discover 
 
 The **HACKSHOW** will be held on Sunday 15th April 2:30pm until 7:30pm @ Campus de la HEAD.
 
-### **Programme**
+<br>
+<a href="https://www.eventbrite.com/e/open-geneva-hackshow-tickets-44587949758?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventname_text" target="_blank"><img src="{{ site.baseurl }}/images/register_button.png" width="300"></a><br><br>
+
+
+### **Program**
 * ***2:30pm :*** doors open
 * ***4pm - 4:10pm :*** introduction
 * ***4:10pm - 4:30pm :*** keynote (t.b.a.)
