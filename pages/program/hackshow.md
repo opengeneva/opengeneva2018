@@ -48,5 +48,5 @@ Avenue de Châtelaine 7<br>
 
 
 <br>
-<img src="https://files.newsnetz.ch/story/2/2/6/22643256/9/topelement.jpg" height="500" alt="" class="imgspace" />
+<img src="{{ site.baseurl }}/images/hackshow/campusHEAD.jpg" height="300" alt="" class="imgspace" />
 <br>

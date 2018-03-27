@@ -9,7 +9,6 @@ permalink : /hackshow_fr/
 
 ## **HACKSHOW | Découvrir les Visages de l'Innovation**
 
-
 Dans une ambiance conviviale et festive, le grand public est invité à venir découvrir la présentation des projets développés par les innovateurs durant les **[25+ hackathons]({{ site.baseurl }}/hackathons_fr)**.<br><br>
 
 Le **HACKSHOW** aura lieu le dimanche 15 avril de 14:30 à 19h30 au Campus de la HEAD.
@@ -48,5 +47,5 @@ Avenue de Châtelaine 7<br>
 
 
 <br>
-<img src="https://files.newsnetz.ch/story/2/2/6/22643256/9/topelement.jpg" height="500" alt="" class="imgspace" />
+<img src="{{ site.baseurl }}/images/hackshow/campusHEAD.jpg" height="300" alt="" class="imgspace" />
 <br>
