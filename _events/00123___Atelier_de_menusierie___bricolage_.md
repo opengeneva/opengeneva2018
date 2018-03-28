@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 00123___Atelier_de_menusierie___bricolage_
-Request sent/ or ready to publish : x
+Request sent/emails sent out : x
 published : TRUE
 order : 00123_
 language : Français & Anglais (remix)

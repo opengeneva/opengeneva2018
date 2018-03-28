@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 014__We_Start_x_SocialUp
-Request sent/ or ready to publish : x
+Request sent/emails sent out : x
 published : TRUE
 order : 014_
 language : French

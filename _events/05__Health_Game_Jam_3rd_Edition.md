@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 05__Health_Game_Jam_3rd_Edition
-Request sent/ or ready to publish : x
+Request sent/emails sent out : x
 published : TRUE
 order : 05_
 language : English & French (remix)

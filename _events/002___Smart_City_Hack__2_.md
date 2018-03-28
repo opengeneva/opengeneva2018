@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 002___Smart_City_Hack__2_
-Request sent/ or ready to publish : 
+Request sent/emails sent out : 
 published : TRUE
 order : 002_
 language : English & French (remix)

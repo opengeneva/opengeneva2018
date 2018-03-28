@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 012__Hack_ton_école
-Request sent/ or ready to publish : 
+Request sent/emails sent out : 
 published : TRUE
 order : 012_
 language : French

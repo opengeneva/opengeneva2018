@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 06__Hackathon_pour_la_transition
-Request sent/ or ready to publish : 
+Request sent/emails sent out : 
 published : TRUE
 order : 06_
 language : French

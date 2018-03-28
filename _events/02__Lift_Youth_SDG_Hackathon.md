@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 02__Lift_Youth_SDG_Hackathon
-Request sent/ or ready to publish : x
+Request sent/emails sent out : x
 published : TRUE
 order : 02_
 language : English & French (remix)

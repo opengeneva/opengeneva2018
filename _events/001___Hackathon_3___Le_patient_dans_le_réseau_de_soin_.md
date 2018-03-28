@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 001___Hackathon_3___Le_patient_dans_le_réseau_de_soin_
-Request sent/ or ready to publish : 
+Request sent/emails sent out : 
 published : TRUE
 order : 001_
 language : French

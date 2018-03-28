@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 00122__Un_temps_de_déconnexion_
-Request sent/ or ready to publish : x
+Request sent/emails sent out : x
 published : TRUE
 order : 00122_
 language : French

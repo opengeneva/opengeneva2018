@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 20__Holochain_Hackathon
-Request sent/ or ready to publish : x
+Request sent/emails sent out : x
 published : TRUE
 order : 20_
 language : English

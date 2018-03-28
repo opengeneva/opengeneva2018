@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 0011__Blockchain_Xploring_@_Oracle
-Request sent/ or ready to publish : 
+Request sent/emails sent out : x
 published : TRUE
 order : 0011_
 language : English & French (remix)
@@ -14,7 +14,7 @@ url_logo : oracle.png
 url_flyer : 
 url_moreinfo : https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x543914abcd
 url_registration : https://eventreg.oracle.com/profile/form/index.cfm?PKformID=0x6043844fc88&source=
-url_sparkboard : 
+url_sparkboard : https://blockchainxperience.sparkboard.com/
 location_address : Oracle Geneva Office ,Route de Pre-Bois 29,1215 Geneva, Switzerland
 location_map : 
 when_start : 13-04-2018 18:00

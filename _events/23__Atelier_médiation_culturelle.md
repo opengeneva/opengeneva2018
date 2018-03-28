@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 23__Atelier_médiation_culturelle
-Request sent/ or ready to publish : 
+Request sent/emails sent out : 
 published : TRUE
 order : 23_
 language : English & French (remix)

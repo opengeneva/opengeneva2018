@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 10__Gender_Equality
-Request sent/ or ready to publish : x
+Request sent/emails sent out : x
 published : TRUE
 order : 10_
 language : English & French (remix)

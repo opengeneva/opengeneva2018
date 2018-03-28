@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 05___Hack_4_Good___Youth__Social_Media___Migration_
-Request sent/ or ready to publish : 
+Request sent/emails sent out : 
 published : TRUE
 order : 05_
 language : English

@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 00221__INILAB_Citoyen
-Request sent/ or ready to publish : x
+Request sent/emails sent out : x
 published : TRUE
 order : 00221_
 language : French

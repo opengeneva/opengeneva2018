@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 01__Swiss_Data_Cube_Hackathon
-Request sent/ or ready to publish : x
+Request sent/emails sent out : x
 published : TRUE
 order : 01_
 language : English & French (remix)

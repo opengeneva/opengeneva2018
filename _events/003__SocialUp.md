@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 003__SocialUp
-Request sent/ or ready to publish : 
+Request sent/emails sent out : 
 published : TRUE
 order : 003_
 language : French

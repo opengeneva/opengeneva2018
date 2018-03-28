@@ -1,7 +1,7 @@
 ---
 layout: events
 fileroot : 015__Sprint_of_Students_Projects
-Request sent/ or ready to publish : x
+Request sent/emails sent out : x
 published : TRUE
 order : 015_
 language : English & French (remix)
