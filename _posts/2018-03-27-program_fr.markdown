@@ -18,4 +18,4 @@ La médecine, la ville intelligente, l'innovation sociale, l’observation de la
 <strong>Le programme complet est accessible sur [opengeneva.org/program]({{ site.baseurl }}/program)</strong>
 
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/P5yvNJGwFKg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/RCBRT-3vbI0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
