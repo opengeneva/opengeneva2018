@@ -12,6 +12,8 @@ permalink : /hackshow/
 In a relaxed and festive atmosphere, citizen and people are invited to discover projects developed by innovators during the **[25+ hackathons]({{ site.baseurl }}/hackathons){:target="_blank"}**.<br><br>
 
 
+<iframe width="400" height="225" src="https://www.youtube.com/embed/kGFslZ8O-XU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
+
 The **HACKSHOW** will be held on Sunday 15th April 2:30pm until 7:30pm @ Campus de la HEAD.
 
 <br>

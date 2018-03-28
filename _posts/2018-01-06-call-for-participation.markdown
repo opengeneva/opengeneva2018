@@ -4,7 +4,7 @@ title:  "Call for Participation"
 date:   2018-01-06 00:00:00 +0200
 categories: news
 lang: en
-published: true
+published: false
 ---
 
 Registration for event proposals is now open. During the warm-up period,

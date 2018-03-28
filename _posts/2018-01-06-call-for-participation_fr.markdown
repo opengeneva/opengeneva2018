@@ -4,7 +4,7 @@ title:  "Participer à Open Geneva"
 date:   2018-01-06 00:00:00 +0200
 categories: news
 lang: fr
-published: true
+published: false
 ---
 
 Vous pouvez dès à présent annoncer un projet d'événement qui sera listé comme faisant
