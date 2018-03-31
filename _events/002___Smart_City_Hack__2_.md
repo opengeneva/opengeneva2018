@@ -8,7 +8,7 @@ language : English & French (remix)
 institution : Innobridge 
 event_title : "Smart City Hack #2"
 event_challenges : Développer des quartiers plus connectés, améliorer les transports publics et la mobilité pour les quartiers, améliorer la sécurité dans les quartiers
-event_description : Smart Quartier, Mobilité, Sécurité
+event_description : "24h de hackathon dédiées au développement de smart cities, avec pour thème « Smart quartier, mobilité, sécurité ». La première édition s’était magnifiquement déroulée avec plus de 70 participants, 10 workshops, des lots et des sourires. Mêmes objectifs pour 2018 : des workshops, des partages, des lots, des animations, la possibilité d’accompagnements pour développer vos projets, le tout dans une ambiance conviviale et décontractée propice à la collaboration et à la créativité. Welcome !"
 event_type : hackathon
 url_logo : 
 url_flyer : smartcityhack.png
