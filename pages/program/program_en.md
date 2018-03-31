@@ -25,7 +25,7 @@ permalink : /program/
 
 <br>
 **Evening Event**
-* **6:15pm - 7:30pm :** Conférence sur la Citoyenneté Numérique @ FER Genève (more details soon)
+* **6:15pm - 7:30pm :** [Conférence: La citoyenneté et la démocratie à l'ère du digital @ FER Genève](https://www.eventbrite.fr/e/billets-conference-citoyennete-numerique-44669483628){:target="_blank"}
 
 
 <br>
@@ -33,18 +33,18 @@ permalink : /program/
 <hr>
 ### ***Tuesday 10th April 2018 | Hackathons***
 
-* **all day :** [Gender Equality Hack @ Campus Biotech]({{ site.baseurl }}/hackathons/#10__Gender_Equality)
+* **all day :** [Gender Equality Hack @ Campus Biotech]({{ site.baseurl }}/hackathons/#10__Gender_Equality){:target="_blank"}
 
 <br>
 **Evening Event**
-* **3:30pm - 5:00pm :** [REGARDS CROISÉS SUR LA CRÉATIVITÉ ET L’INNOVATION @ Genève Aéroport](https://www.eventbrite.fr/e/billets-regards-croises-sur-la-creativite-et-linnovation-44193547089?utm_term=eventurl_text){:target="_blank"}
+* **3:30pm - 5:00pm :** [Regards croisés sur la créativité et l'innovation @ Genève Aéroport](https://www.eventbrite.fr/e/billets-regards-croises-sur-la-creativite-et-linnovation-44193547089?utm_term=eventurl_text){:target="_blank"}
 
 <br>
 <hr>
 ### ***Wednesday 11th April 2018 | Hackathons***
 
-* **all day :** [Gender Equality Hack @ Campus Biotech]({{ site.baseurl }}/hackathons/#10__Gender_Equality)
-* **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon)
+* **all day :** [Gender Equality Hack @ Campus Biotech]({{ site.baseurl }}/hackathons/#10__Gender_Equality){:target="_blank"}
+* **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon){:target="_blank"}
 
 <br>
 **Evening Event**
@@ -55,20 +55,22 @@ permalink : /program/
 <hr>
 ### ***Thursday 12th April 2018 | Hackathons***
 
-* **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon)
+* **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon){:target="_blank"}
+
+* **4:00pm – 6:00pm :** [Open doors at Hewlett Packard Enterprise Customer Center : Open Innovation for IoT and Energetic Transition](https://www.eventbrite.fr/e/billets-portes-ouvertes-au-centre-clients-hpe-innovation-ouverte-dans-liot-et-la-transition-ecologique-44630337541?utm_term=eventurl_text){:target="_blank"}
 
 <br>
 **Evening Event**
-* **6pm - 8pm :**  [Learn to Pitch @ *Ma thèse en 180 seconds*](https://unige.ch/dife/enseigner-apprendre/soutien-doctorat/mt180)
+* **6pm - 8pm :**  [Learn to Pitch @ *Ma thèse en 180 seconds*](https://unige.ch/dife/enseigner-apprendre/soutien-doctorat/mt180){:target="_blank"}
 
 <br>
 <hr>
 ### ***Friday 13th April 2018 | Hackathons***
-* **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon)
-* **8am - 8pm (+1d) :** [3rd Hackathon @ University Hospitals ]({{ site.baseurl }}/hackathons/#001__Hackathon__3___Le_patient_dans_le_réseau_de_soin)
-* **4pm - 9pm (+1d) :** [Smart City Hack #2 @ Centre Universitaire Informatique ]({{ site.baseurl }}/hackathons/#002__Smart_City_Hack_v2)
-* **7pm - 12pm (+2d) :** [Hack 4 Good : Youth, Social Media & Migration @ Citiz'n ]({{ site.baseurl }}/hackathons/#05___Hack_4_Good___Youth__Social_Media___Migration_)
-* **6pm - 3pm (+2d) :** [SocialUp @ Impact Hub Geneva ]({{ site.baseurl }}/hackathons/#003__SocialUp)
+* **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon){:target="_blank"}
+* **8am - 8pm (+1d) :** [3rd Hackathon @ University Hospitals ]({{ site.baseurl }}/hackathons/#001__Hackathon__3___Le_patient_dans_le_réseau_de_soin){:target="_blank"}
+* **4pm - 9pm (+1d) :** [Smart City Hack #2 @ Centre Universitaire Informatique ]({{ site.baseurl }}/hackathons/#002__Smart_City_Hack_v2){:target="_blank"}
+* **7pm - 12pm (+2d) :** [Hack 4 Good : Youth, Social Media & Migration @ Citiz'n ]({{ site.baseurl }}/hackathons/#05___Hack_4_Good___Youth__Social_Media___Migration_){:target="_blank"}
+* **6pm - 3pm (+2d) :** [SocialUp @ Impact Hub Geneva ]({{ site.baseurl }}/hackathons/#003__SocialUp){:target="_blank"}
 
 <br>
 <hr>
@@ -87,19 +89,25 @@ permalink : /program/
 
 <br>
 <hr>
-### ***Sunday 15th April 2018 | Hack Show***
+### ***Sunday 15th April 2018 | HACKSHOW***
+
+
+
 
 * **7am - 10am :** Poster Printing
 * **10am - 2pm :** Preparation of Oral Presentations
 
-* **2:30pm - 7:30pm :** Hack Show @ Campus Hippomène
+* **2:30pm - 7:30pm :** [Hack Show @ Campus Hippomène]({{ site.baseurl }}/hackshow)
 
   * ***2:30pm :*** doors open
   * ***4pm - 4:10pm :*** introduction
-  * ***4:10pm - 4:30pm :*** keynote (tbc)
+  * ***4:10pm - 4:30pm :*** 2 inspiring talks
   * ***4:30pm - 5:00pm :*** 5 project presentations
   * ***5:00pm - 5:10pm :*** interlude
   * ***5:10pm - 5:30pm :*** 5 project presentations
   * ***5:30pm - 5:50pm :*** panel
   * ***5:50pm - 6pm :*** concluding remarks
   * ***6:00pm - 7:30pm :*** cocktail, posters & networking
+
+<br><br>
+<a href="{{ site.baseurl }}/hackshow" target="_blank"><img src="{{ site.baseurl }}/images/hackshow/visuel_hackshow.jpg" height="200" alt="" class="imgspace" /></a>

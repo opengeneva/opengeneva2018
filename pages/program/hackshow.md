@@ -23,7 +23,7 @@ The **HACKSHOW** will be held on Sunday 15th April 2:30pm until 7:30pm @ Campus 
 ### **Program**
 * ***2:30pm :*** doors open
 * ***4pm - 4:10pm :*** introduction
-* ***4:10pm - 4:30pm :*** keynote (t.b.a.)
+* ***4:10pm - 4:30pm :*** inspiring talks
 * ***4:30pm - 5:00pm :*** 5 project presentations
 * ***5:00pm - 5:10pm :*** interlude
 * ***5:10pm - 5:30pm :*** 5 project presentations
