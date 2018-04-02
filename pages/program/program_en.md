@@ -82,10 +82,7 @@ permalink : /program/
 
 <br>
 **Evening Events**
-* **7pm - 9pm :** Party warm-up for hackathon participants @ Campus Hippomène
-* **7pm - 4am :** Hackathon participants prepare their posters @ Campus Hippomène
-* **7pm - 4am :** Hackathon participants party and/or continue hacking @ Campus Hippomène
-* **9pm - 4am :** [Open Geneva Silent Party - location to be updated](https://www.facebook.com/events/1992859280728327/) (organized by [Genève Ville Vivante](https://www.geneve-ville-vivante.ch/) )
+* **7pm - 4am :** [Open Geneva Silent Party - Temple de Plainpalais](https://www.facebook.com/events/1992859280728327/) (with [Genève Ville Vivante](https://www.geneve-ville-vivante.ch/) )
 
 <br>
 <hr>
