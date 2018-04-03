@@ -21,7 +21,7 @@ permalink : /program/
 * **11:30am - 12:30pm :** Press Conference (French & English)
 
 * **2pm - 4pm :** [Organisez votre propre hackathon pour les TPE/PME](https://www.ccig.ch/agenda/2018/04/Organisez-votre-propre-hackathon){:target="_blank"}, with [CCIG](https://www.ccig.ch/) and [Best for Geneva](https://bestforgeneva.ch/) (in French)
-* **4pm - 6pm :** Kick off with all hackathon & event organizers  
+* **4pm - 6pm :** [Kick off with all hackathon & event organizers](https://www.eventbrite.fr/e/billets-kick-off-open-geneva-44792372191?aff=es2){:target="_blank"} @ [CCIG](https://www.ccig.ch/)
 
 <br>
 **Evening Event**
