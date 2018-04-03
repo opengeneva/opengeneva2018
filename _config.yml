@@ -26,7 +26,7 @@ youtube_username: opengeneva
 facebook_username: opengeneva
 port : 4001
 
-site.google_analytics : UA-56851854-8
+site.google_analytics : UA-114211038-1
 
 # Build settings
 markdown: kramdown
