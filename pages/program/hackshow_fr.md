@@ -9,7 +9,7 @@ permalink : /hackshow_fr/
 
 ## **HACKSHOW | Découvrir les Visages de l'Innovation**
 
-Dans une ambiance conviviale et festive, le grand public est invité à venir découvrir la présentation des projets développés par les innovateurs durant les **[25+ hackathons]({{ site.baseurl }}/hackathons_fr)**.<br><br>
+Dans une ambiance conviviale et festive, le grand public est invité à venir découvrir la présentation des projets développés par les innovateurs durant les **[30+ hackathons]({{ site.baseurl }}/hackathons_fr)**.<br><br>
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/kGFslZ8O-XU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
 
