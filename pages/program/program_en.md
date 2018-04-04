@@ -48,7 +48,7 @@ permalink : /program/
 
 <br>
 **Evening Event**
-* **6:15pm - 7:30pm :** Conference on GIS for GOOD @ FER Genève (more details soon)
+* **6:15pm - 7:30pm :** [Conference on GIS for GOOD @ FER Genève](https://www.eventbrite.fr/e/billets-conference-gis-for-good-global-to-local-44670677198?aff=es2){:target="_blank"}
 
 
 <br>

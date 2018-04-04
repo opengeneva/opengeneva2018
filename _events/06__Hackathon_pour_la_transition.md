@@ -15,9 +15,9 @@ url_flyer : hackathon_transition.png
 url_moreinfo : https://www.apres-ge.ch/actualites/hackathon-pour-la-transition-appel-problematiques
 url_registration : https://bestforgeneva.ch/best-for-geneva-un-programme-pour-construire-ensemble-une-economie-prospere-et-durable-2/
 url_sparkboard : 
-location_address : Sentier des Saules 3, 1205 Genève
+location_address : Bâtiment des Saules, 3 Chemin des Saules, Genève
 location_map : 
-when_start : 14-04-2018 9:00
+when_start : 14-04-2018 8:30
 when_end : 14-04-2018 17:00
 twitter : BestForGeneva
 facebook : https://www.facebook.com/BestForGeneva/

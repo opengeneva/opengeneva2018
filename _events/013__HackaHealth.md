@@ -17,8 +17,8 @@ url_registration : https://docs.google.com/forms/d/e/1FAIpQLSdiAEgWN1-xPH3zS6f7J
 url_sparkboard : 
 location_address : Avenue de Sécheron 15, 1202 Genève
 location_map : 
-when_start : 14-04
-when_end : 15-04
+when_start : 14-04 08:30-20:00
+when_end : 15-04 08:30-18:30
 twitter : 
 facebook : https://www.facebook.com/HackaHealth-893052070861490/?notif_id=1521383568871268&notif_t=page_invite&ref=notif
 linkedin : 
