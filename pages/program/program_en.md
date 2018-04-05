@@ -61,7 +61,8 @@ permalink : /program/
 
 <br>
 **Evening Event**
-* **6pm - 8pm :**  [Learn to Pitch @ *Ma thèse en 180 seconds*](https://unige.ch/dife/enseigner-apprendre/soutien-doctorat/mt180){:target="_blank"}
+* **6pm - 8pm :**  Geneva final of [“Ma these en 180 secondes” @ UNIGE ](https://unige.ch/dife/enseigner-apprendre/soutien-doctorat/mt180){:target="_blank"} : an opportunity to see 15 candidates pitching their PhD research in 3 minutes!
+
 
 <br>
 <hr>
@@ -94,7 +95,7 @@ permalink : /program/
 * **7am - 10am :** Poster Printing
 * **10am - 2pm :** Preparation of Oral Presentations
 
-* **2:30pm - 7:30pm :** [Hack Show @ Campus Hippomène]({{ site.baseurl }}/hackshow)
+* **2:30pm - 7:30pm :** [Hack Show @ Espace Hippomène, Campus de la HEAD]({{ site.baseurl }}/hackshow)
 
   * ***2:30pm :*** doors open
   * ***4pm - 4:10pm :*** introduction
