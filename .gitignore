@@ -8,3 +8,4 @@ _site/
 assets/bundle.js
 node_modules
 
+*.DS_Store
