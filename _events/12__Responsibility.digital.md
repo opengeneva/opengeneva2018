@@ -12,10 +12,10 @@ event_description : Réfléchir sur le contenu et l'interface pour un open label
 event_type : entre Workshop et Hackathon
 url_logo : responsibility_digital.jpg
 url_flyer : 
-url_moreinfo : http://www.responsibility.digital
-url_registration : 
+url_moreinfo : https://www.meetup.com/fr-FR/tech4goodLIN/events/247810698/
+url_registration : https://www.meetup.com/fr-FR/tech4goodLIN/events/247810698/
 url_sparkboard : 
-location_address : 
+location_address : Centre Universitaire Informatique, Université de Genève, Battelle - bâtiment A, 7, route de Drize, CH-1227 Carouge
 location_map : t.b.a.
 when_start : 13-04 morning
 when_end : 13-04 night

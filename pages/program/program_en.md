@@ -56,7 +56,9 @@ permalink : /program/
 ### ***Thursday 12th April 2018 | Hackathons***
 
 * **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon){:target="_blank"}
-
+* **8:00am - 6pm (+2d):** [Health Game Jam 3rd Edition]({{ site.baseurl }}/hackathons/#05__Health_Game_Jam_3rd_Edition){:target="_blank"}
+* **10:00am - 3:30pm :** [Coty Beauty Hackathon]({{ site.baseurl }}/hackathons/#001211__Coty_Geneva_Hackathon_){:target="_blank"}
+* **10:00am - 7:00pm (+1d) :** [Amaris Solidarity Platform Hackathon]({{ site.baseurl }}/hackathons/#001212__Solidarity_Platform_Hackathon){:target="_blank"}
 * **4:00pm – 6:00pm :** [Open doors at Hewlett Packard Enterprise Customer Center : Open Innovation for IoT and Energetic Transition](https://www.eventbrite.fr/e/billets-portes-ouvertes-au-centre-clients-hpe-innovation-ouverte-dans-liot-et-la-transition-ecologique-44630337541?utm_term=eventurl_text){:target="_blank"}
 
 <br>
@@ -69,17 +71,29 @@ permalink : /program/
 ### ***Friday 13th April 2018 | Hackathons***
 * **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon){:target="_blank"}
 * **8am - 8pm (+1d) :** [3rd Hackathon @ University Hospitals ]({{ site.baseurl }}/hackathons/#001__Hackathon__3___Le_patient_dans_le_réseau_de_soin){:target="_blank"}
+* **8am - 8pm (+1d) :** [INILAB Citoyen]({{site.baseurl}}/hackathons/#00221__INILAB_Citoyen){:target="_blank"}
+* **8am - 8pm (+1d) :** [AESI Game Jam]({{site.baseurl}}/hackathons/#014__AESI_Game_Jam){:target="_blank"}
+* **9am - 8pm :** [Hackathon Politique Numérique]({{site.baseurl}}/hackathons/# 000121__Hackathon_Politique_Numérique){:target="_blank"}
+* **9am - 7pm (+1d) :** [Dessine-moi un FacLab]({{site.baseurl}}/hackathons/#0011__Dessine-moi_un_FacLab){:target="_blank"}
+* **9am - 8pm (+1d) :** [Blockchain Hackathon ARK & SonoCoin]({{site.baseurl}}/hackathons/#01123__Blockchain_Hackathon_ARK___SonoCoin){:target="_blank"}
+* **9am - 5pm (+1d) :** [Atelier de médiation culturelle]({{site.baseurl}}/hackathons/#23__Atelier_médiation_culturelle){:target="_blank"}
+* **9:30am - 7:30pm :** [Responsibility.digital]({{site.baseurl}}/hackathons/#12__Responsibility.digital){:target="_blank"}
+* **12pm - 2pm :** [Un temps de déconnexion par l'aumonerie de l'UNIGE]({{site.baseurl}}/hackathons/#00122__Un_temps_de_déconnexion_){:target="_blank"}
+* **2pm - 8pm :** [Knock on the Wood : Atelier de menuiserie & bricolage]({{site.baseurl}}/hackathons/00123___Atelier_de_menusierie___bricolage_){:target="_blank"}
 * **4pm - 9pm (+1d) :** [Smart City Hack #2 @ Centre Universitaire Informatique ]({{ site.baseurl }}/hackathons/#002__Smart_City_Hack_v2){:target="_blank"}
-* **7pm - 12pm (+2d) :** [Hack 4 Good : Youth, Social Media & Migration @ Citiz'n ]({{ site.baseurl }}/hackathons/#05___Hack_4_Good___Youth__Social_Media___Migration_){:target="_blank"}
+* **6pm - 6pm (+1d) :** [Blockchain Xploring @ Oracle ]({{ site.baseurl }}/hackathons/#00011__Blockchain_Xploring_@_Oracle){:target="_blank"}
 * **6pm - 3pm (+2d) :** [SocialUp @ Impact Hub Geneva ]({{ site.baseurl }}/hackathons/#003__SocialUp){:target="_blank"}
+* **7pm - 12pm (+2d) :** [Hack 4 Good : Youth, Social Media & Migration @ Citiz'n ]({{ site.baseurl }}/hackathons/#05___Hack_4_Good___Youth__Social_Media___Migration_){:target="_blank"}
+
 
 <br>
 <hr>
 ### ***Saturday 14th April 2018 | Hackathons***
 
-* **9am -5pm :** [Hackathon pour la Transition]({{ site.baseurl }}/hackathons/#06__Hackathon_pour_la_transition)
-* **1pm - 5pm :** [Lift:Youth SDG Hackathon @ Ecol'Int]({{ site.baseurl }}/hackathons/#02__Lift_Youth_SDG_Hackathon)
-* **1:30pm - 6pm :** [Scratch programming for kids by Swiss Institue of Bioinformatics @ Ecol'Int]({{ site.baseurl }}/hackathons/#07__Scratch_programming_for_kids)
+* **8:30am - 11pm :** [Hackathon pour la transition]({{ site.baseurl }}/hackathons/#06__Hackathon_pour_la_transition){:target="_blank"}
+* **9am - 6pm :** [Hydrothon : Hydrogen Hackathon]({{ site.baseurl }}/hackathons/#00111___Hydrothon__Hydrogen_Hackathon_){:target="_blank"}
+* **1pm - 5pm :** [Lift:Youth SDG Hackathon @ Ecol'Int]({{ site.baseurl }}/hackathons/#02__Lift_Youth_SDG_Hackathon){:target="_blank"}
+* **1:30pm - 6pm :** [Scratch programming for kids by Swiss Institue of Bioinformatics @ Ecol'Int]({{ site.baseurl }}/hackathons/#07__Scratch_programming_for_kids){:target="_blank"}
 
 <br>
 **Evening Events**

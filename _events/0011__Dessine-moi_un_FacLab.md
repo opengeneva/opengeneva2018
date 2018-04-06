@@ -4,7 +4,7 @@ fileroot : 0011__Dessine-moi_un_FacLab
 Request sent/emails sent out : x
 published : TRUE
 order : 0011_
-language : English & French (remix)
+language : French
 institution : Université de Genève
 event_title : Dessine-moi un FacLab
 event_challenges :  ·         Compétences Numériques pour tous ·         Entraide étudiants ·         Tiers-lieux du Numérique ·         Valorisation de la Recherche et des Experts
@@ -17,8 +17,8 @@ url_registration : https://framaforms.org/appel-a-participants-dessine-moi-un-fa
 url_sparkboard : 
 location_address : "La Bibliothèque Centre Universitaire d'Informatique Battelle - Batiment A Route de Drize 7 1227 Carouge"
 location_map : 
-when_start : 13-04-2018 8:00
-when_end : 14-04-2018 20:00
+when_start : 13-04-2018 9:00
+when_end : 14-04-2018 19:00
 twitter : 
 facebook : 
 linkedin : 

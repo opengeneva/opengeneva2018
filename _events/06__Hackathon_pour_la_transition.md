@@ -12,8 +12,8 @@ event_description : Répondre aux problématiques des membres de la Chambre ESS 
 event_type : hackathon
 url_logo : apres-ge.png
 url_flyer : hackathon_transition.png
-url_moreinfo : https://www.apres-ge.ch/actualites/hackathon-pour-la-transition-appel-problematiques
-url_registration : https://bestforgeneva.ch/best-for-geneva-un-programme-pour-construire-ensemble-une-economie-prospere-et-durable-2/
+url_moreinfo : https://www.apres-ge.ch/agenda/hackathon-pour-la-transition
+url_registration : 
 url_sparkboard : 
 location_address : Bâtiment des Saules, 3 Chemin des Saules, Genève
 location_map : 
