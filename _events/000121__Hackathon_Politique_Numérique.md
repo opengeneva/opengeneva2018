@@ -13,7 +13,7 @@ event_type : hackathon
 url_logo : 
 url_flyer : politique_numerique.jpg
 url_moreinfo : https://jhmorin.wixsite.com/polnumog18
-url_registration : 
+url_registration : https://docs.google.com/forms/d/e/1FAIpQLScn9TNZCNgTofADv82k1RW4HtDTyRyfwYWyT5F5C9-aXDDmoQ/viewform
 url_sparkboard : 
 location_address : Centre Universitaire Informatique, Université de Genève, Battelle - bâtiment A, 7, route de Drize, CH-1227 Carouge
 location_map : 

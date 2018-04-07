@@ -14,7 +14,7 @@ url_logo : logo_swiss_data_cube.png
 url_flyer : flyer_swiss_data_cube.png
 url_moreinfo : http://www.swissdatacube.org/index.php/2018/03/07/opengeneva-hackathon-sdc-sdg/
 url_registration : https://goo.gl/forms/Vopz3VF3vPjwc97v1
-url_sparkboard : 
+url_sparkboard : https://swissdatacube.sparkboard.com
 location_address : Centre Universitaire Informatique, Université de Genève, Battelle - bâtiment A, 7, route de Drize, CH-1227 Carouge
 location_map : 
 when_start : 11-04-2018

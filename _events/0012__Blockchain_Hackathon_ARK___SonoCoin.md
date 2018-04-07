@@ -13,7 +13,7 @@ event_type :
 url_logo : 
 url_flyer : sonocoin_ark.jpg
 url_moreinfo : https://jhmorin.wixsite.com/blockchainog18
-url_registration : 
+url_registration : https://docs.google.com/forms/d/e/1FAIpQLSfTI76IHyqu7VbORKlQJYUgNpY-dhEAbO68uhQtS-RdsRj-4g/viewform
 url_sparkboard : 
 location_address : Centre Universitaire Informatique, Université de Genève, Battelle - bâtiment A, 7, route de Drize, CH-1227 Carouge
 location_map : 
