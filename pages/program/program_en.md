@@ -8,9 +8,9 @@ permalink : /program/
 
 
 
-
-
-### ***-- [Check out the list of Open Geneva hackathons]({{ site.baseurl }}/hackathons/) --***
+### **Quick Links**
+  * ***[Open Geneva hackathons]({{ site.baseurl }}/hackathons/)***
+  * ***[HACKSHOW]({{ site.baseurl }}/hackshow/)***
 
 ## **Program**
 <hr>
@@ -90,7 +90,10 @@ permalink : /program/
 <hr>
 ### ***Saturday 14th April 2018 | Hackathons***
 
+
+* **8:00am - 7pm :** [Mobility hackathon @CERN IdeaSquare]({{ site.baseurl }}/hackathons/#000120__Mobility_Hackathon_@CERN_IdeaSquare){:target="_blank"}
 * **8:30am - 11pm :** [Hackathon pour la transition]({{ site.baseurl }}/hackathons/#06__Hackathon_pour_la_transition){:target="_blank"}
+* **8:30am - 11pm (+1d):** [Hackahealth]({{ site.baseurl }}/hackathons/#013__HackaHealth){:target="_blank"}
 * **9am - 6pm :** [Hydrothon : Hydrogen Hackathon]({{ site.baseurl }}/hackathons/#00111___Hydrothon__Hydrogen_Hackathon_){:target="_blank"}
 * **1pm - 5pm :** [Lift:Youth SDG Hackathon @ Ecol'Int]({{ site.baseurl }}/hackathons/#02__Lift_Youth_SDG_Hackathon){:target="_blank"}
 * **1:30pm - 6pm :** [Scratch programming for kids by Swiss Institue of Bioinformatics @ Ecol'Int]({{ site.baseurl }}/hackathons/#07__Scratch_programming_for_kids){:target="_blank"}
