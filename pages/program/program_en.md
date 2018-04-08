@@ -83,6 +83,7 @@ permalink : /program/
 * **4pm - 9pm (+1d) :** [Smart City Hack #2 @ Centre Universitaire Informatique ]({{ site.baseurl }}/hackathons/#002__Smart_City_Hack_v2){:target="_blank"}
 * **6pm - 6pm (+1d) :** [Blockchain Xploring @ Oracle ]({{ site.baseurl }}/hackathons/#00011__Blockchain_Xploring_@_Oracle){:target="_blank"}
 * **6pm - 3pm (+2d) :** [SocialUp @ Impact Hub Geneva ]({{ site.baseurl }}/hackathons/#003__SocialUp){:target="_blank"}
+* **6pm - 4pm (+2d) :** [Hackathon Vernier 2018]({{ site.baseurl }}/hackathons/#12__ChezNous__c_est_ChezToi){:target="_blank"}
 * **7pm - 12pm (+2d) :** [Hack 4 Good : Youth, Social Media & Migration @ Citiz'n ]({{ site.baseurl }}/hackathons/#05___Hack_4_Good___Youth__Social_Media___Migration_){:target="_blank"}
 
 

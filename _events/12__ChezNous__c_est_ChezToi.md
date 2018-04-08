@@ -12,13 +12,13 @@ event_description : Un bassin de vie pour maintenant et  pour demain. Le citoyen
 event_type : Barcamp, workshop, conference, projection de film, performance artistique collaborative.
 url_logo : cheznous.jpg
 url_flyer : 
-url_moreinfo : https://cheznous-lemouvement.ch
+url_moreinfo : https://cheznous-lemouvement.ch/opengeneva2018/
 url_registration : 
 url_sparkboard : 
-location_address : t.b.a.
-location_map : t.b.a.
-when_start : 13-04 night
-when_end : 15-04 afternoon
+location_address : La Ferme du Lignon, Route du Bois-des-Frères 51B, 1219 Le Lignon, Suisse
+location_map : 
+when_start : 13-04-2018 18:00
+when_end : 15-04-2018 16:00
 twitter :  cheznous@ChezNousVernier 
 facebook : https://www.facebook.com/gevernier/
 linkedin : 
