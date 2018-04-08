@@ -53,7 +53,7 @@ In a relaxed and festive atmosphere, citizen and people are invited to discover 
 
 <br />
 * ***4:30pm - 5:00pm***  
-  * 5 project presentations from [hackathons](http:opengeneva.org/hackathons){:target="_blank"} *(Talks in French or English)*  
+  * 4 project presentations from [hackathons](http:opengeneva.org/hackathons){:target="_blank"} *(Talks in French or English)*  
 <br />
 * ***5:00pm - 5:10pm***
   * Listen to Innovation -- [Haute Ecole de Musique de Genève](https://www.hesge.ch/hem/){:target="_blank"}  
@@ -75,7 +75,7 @@ In a relaxed and festive atmosphere, citizen and people are invited to discover 
   This panel is moderated by **Abir Oreibi**, Chief Executive Officier, *[Lift](http://www.liftglobal.org/people/abir-oreibi){:target="_blank"}*   
   <br />
 
-* ***5:50pm - 6pm :*** Concluding Remarks
+* ***5:50pm - 6:00pm :*** Concluding Remarks
 
 * ***6:00pm - 7:30pm :*** Cocktail, Posters & Networking  
     <br />

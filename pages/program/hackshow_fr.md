@@ -16,7 +16,7 @@ Dans une ambiance conviviale et festive, le grand public est invité à venir d�
 {:/comment}
 
 ## **Programme**
-* ***2:30pm - 4:00pm***
+* ***14:30 - 16:00***
   * Ouverture des portes & café
   * Présentation des posters et démos
   <br />
@@ -24,11 +24,11 @@ Dans une ambiance conviviale et festive, le grand public est invité à venir d�
 
 
 <br />
-* ***4:00pm - 4:10pm***
+* ***16:00 - 16:10***
   * Ouverture du HACKSHOW par **François Abbé-Décarroux**, Directeur de la [HES-SO Genève](https://www.hes-so.ch/){:target="_blank"}
   * Introduction par **François Grey**, Directeur de la [Stratégie Numérique, UNIGE](https://www.unige.ch/numerique/fr/){:target="_blank"}  
 <br />
-* ***4:10pm - 4:30pm :*** Inspiring Talks
+* ***16:10 - 16:30 :*** Inspiring Talks
 
   * **Bodo & Lorelei Hoenen**, [Dev4x](http://www.dev4x.com){:target="_blank"}  
 Quand Lorelei, la fille de Bodo, s'est retrouvée paralysée d’un bras, les deux se mis à travailler ensemble pour élaborer et construire un exosquelette. Ni Lorelei, ni Bodo avait de l’expérience en robotique. Ils ont procédé en partageant les problèmes auxquels il faisaient face avec de nombreuses personnes qu’ils ne connaissaient pas et qui les ont aidés. Aujourd’hui le travail de Lorelei et Bodo est libre d’accès et peut être répliqué, adapté et amélioré par n’importe qui. *(Présentation en anglais)*  
@@ -45,20 +45,20 @@ Lina Bai travaille à Tsinghua x-lab. Sa mission est de favoriser l’imaginatio
 
 
 <br />
-* ***4:30pm - 5:00pm***  
-  * 5 presentations de projets de [hackathons](http:opengeneva.org/hackathons){:target="_blank"} *(Présentations en français et anglais)*  
+* ***16:30 - 17:00***  
+  * 4 presentations de projets de [hackathons](http:opengeneva.org/hackathons){:target="_blank"} *(Présentations en français et anglais)*  
 <br />
-* ***5:00pm - 5:10pm***
+* ***17:00 - 17:10***
   * Ecouter l'Innovation -- [Haute Ecole de Musique de Genève](https://www.hesge.ch/hem/){:target="_blank"}  
   <br />
   <img src="{{ site.baseurl }}/images/hackshow/logo_hem.png" height="125" alt="" class="imgspace" />&nbsp;&nbsp;<img src="{{ site.baseurl }}/images/hackshow/hem_banner.png" height="125" alt="" class="imgspace" />  
 
 <br />
-* ***5:10pm - 5:30pm***
+* ***17:10 - 17:30***
   * 5 presentations de projets de [hackathons](http:opengeneva.org/hackathons){:target="_blank"} *(Présentations en français et anglais)*  
 <br />
 
-* ***5:30pm - 5:50pm :*** Table-Ronde
+* ***17:30 - 17:50 :*** Table-Ronde
 <br />
   * **Cécile Catalano**, Organisatrice du Hackathon *SocialUp*, *[Hospice Général](http://hospicegeneral.ch){:target="_blank"}*
   * **Isabelle Jacob-Neboud**, Directrice de l'Innovation, *[BNP Paribas Suisse](http://www.bnpparibas.ch/){:target="_blank"}*
@@ -68,9 +68,9 @@ Lina Bai travaille à Tsinghua x-lab. Sa mission est de favoriser l’imaginatio
   La table-ronde sera modérée par **Abir Oreibi**, [CEO de *Lift*](http://www.liftglobal.org/people/abir-oreibi){:target="_blank"}   
   <br />
 
-* ***5:50pm - 6pm :*** Conclusion et Remerciements
+* ***17:50 - 18:00 :*** Conclusion et Remerciements
 
-* ***6:00pm - 7:30pm :*** Cocktail, Posters & Networking  
+* ***18:00 - 19:30 :*** Cocktail, Posters & Networking  
     <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="{{ site.baseurl }}/images/hackshow/applaud.jpg" height="125" alt="" class="imgspace" />&nbsp;<img src="{{ site.baseurl }}/images/hackshow/cocktail.jpg" height="125" alt="" class="imgspace" />
 
