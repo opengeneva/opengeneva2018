@@ -8,6 +8,8 @@ permalink: /map/
 published: true
 ---
 
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Open Geneva Hackathon" src="//genevahackathon.maps.arcgis.com/apps/Embed/index.html?webmap=977db53758b8472aabf1c3ee77b9df16&amp;extent=6.0857,46.1727,6.2125,46.2307&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Open Geneva Hackathon" src="//genevahackathon.maps.arcgis.com/apps/Embed/index.html?webmap=977db53758b8472aabf1c3ee77b9df16&amp;extent=6.00,46.16,6.254,46.275&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
 
-map designed by Tiago Arvela, ESRI Suisse.
+<br>
+checkout also the awesome [Open Geneva Storymap](https://arcg.is/1Dfr5G){:target="_blank"}.<br>
+both map and storymap are designed and updated by Tiago Arvela, ESRI Suisse.

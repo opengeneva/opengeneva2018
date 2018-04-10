@@ -69,7 +69,7 @@ In a relaxed and festive atmosphere, citizen and people are invited to discover 
 <br />
   * **Cécile Catalano**, Lead at *SocialUp* Hackathon, *[Hospice Général](http://hospicegeneral.ch){:target="_blank"}*
   * **Isabelle Jacob-Neboud**, Head of Development & Innovation, *[BNP Paribas Suisse](http://www.bnpparibas.ch/){:target="_blank"}*
-  {::comment}* **Yvan Cognasse (tbc)**, Senior Director, EMEA and JAPAC Cloud Applications Architecture Leader, *[Oracle](https://www.oracle.com/index.html){:target="_blank"}*{:/comment}
+  * **Yvan Cognasse**, Lead EMEA and JAPAC Cloud Applications Architecture, *[Oracle](https://www.oracle.com/index.html){:target="_blank"}*
   * **Pierre Mirlesse**, Vice President Public Sector, Healthcare & Pharma, *[HP Enterprise](https://www.hpe.com/ch/fr/home.html){:target="_blank"}*   
   <br />
   This panel is moderated by **Abir Oreibi**, Chief Executive Officier, *[Lift](http://www.liftglobal.org/people/abir-oreibi){:target="_blank"}*   

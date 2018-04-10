@@ -57,7 +57,7 @@ permalink : /program/
 
 * **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon){:target="_blank"}
 * **8:00am - 6pm (+2d):** [Health Game Jam 3rd Edition]({{ site.baseurl }}/hackathons/#05__Health_Game_Jam_3rd_Edition){:target="_blank"}
-* **10:00am - 3:30pm :** [Coty Beauty Hackathon]({{ site.baseurl }}/hackathons/#001211__Coty_Geneva_Hackathon_){:target="_blank"}
+* **10:00am - 3:30pm :** [Coty Beauty Hackathon]({{ site.baseurl }}/hackathons/#001211__Coty_Beauty_Hackathon){:target="_blank"}
 * **10:00am - 7:00pm (+1d) :** [Amaris Solidarity Platform Hackathon]({{ site.baseurl }}/hackathons/#001212__Solidarity_Platform_Hackathon){:target="_blank"}
 * **4:00pm – 6:00pm :** [Open doors at Hewlett Packard Enterprise Customer Center : Open Innovation for IoT and Energetic Transition](https://www.eventbrite.fr/e/billets-portes-ouvertes-au-centre-clients-hpe-innovation-ouverte-dans-liot-et-la-transition-ecologique-44630337541?utm_term=eventurl_text){:target="_blank"}
 
