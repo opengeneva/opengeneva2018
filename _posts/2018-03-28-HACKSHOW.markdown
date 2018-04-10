@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HACKSHOW"
-date:   2018-04-08 00:00:00 +0200
+date:   2018-04-10 00:00:00 +0200
 categories: news
 lang: en
 permalink:
@@ -10,7 +10,6 @@ published: true
 
 Don't miss the <strong>HACKSHOW</strong>, the unique moment when you can discover the results of 30+ hackathons, and meet with all sorts of innovators, not only engineers, but also social innovators, transition innovators, hospital innovators, blockchain innovators, humanitarian innovators, youth innovators, etc.
 
+<a href="{{ site.baseurl }}/hackshow" target="_blank"><img src="{{ site.baseurl }}/images/hackshow/banner_hackshow.jpg" width="80%" alt="" class="imgspace" /></a>
 
 <strong>[Learn More about HACKSHOW]({{ site.baseurl }}/hackshow)</strong>
-<br><br>
-<iframe width="400" height="225" src="https://www.youtube.com/embed/kGFslZ8O-XU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
