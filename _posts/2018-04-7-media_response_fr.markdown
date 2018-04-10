@@ -15,3 +15,7 @@ published: true
 
 ### **Bilan.ch**
 [Hackathon: à qui profite l’innovation ?](http://www.bilan.ch/plus-de-redaction/hackathon-a-profite-linnovation){:target="_blank"}
+
+### **World Radion Switzerland | Mid Morning Mix**
+
+[Open Geneva; hackathon and hackshow](https://worldradio.ch/article/open-geneva-hackathon-and-hackshow/){:target="_blank"}
