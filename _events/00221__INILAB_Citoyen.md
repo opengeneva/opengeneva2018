@@ -13,8 +13,8 @@ event_type : hackathon
 url_logo : inilab.png
 url_flyer : 
 url_moreinfo : https://inilab.ch/sessions/new
-url_registration : 
-url_sparkboard : 
+url_registration : https://goo.gl/forms/kM9JfdsiOZZ0wulE2
+url_sparkboard : https://inilab.sparkboard.com/
 location_address : Centre Universitaire Informatique, Université de Genève, Battelle - bâtiment A, 7, route de Drize, CH-1227 Carouge (also online)
 location_map : 
 when_start : 13-04-2018 8:00

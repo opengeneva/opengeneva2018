@@ -14,7 +14,7 @@ url_logo :
 url_flyer : faclab.gif
 url_moreinfo : http://www.faclab.ch
 url_registration : https://framaforms.org/appel-a-participants-dessine-moi-un-faclab-1521048468
-url_sparkboard : 
+url_sparkboard : https://faclab.sparkboard.com/
 location_address : "La Bibliothèque Centre Universitaire d'Informatique Battelle - Batiment A Route de Drize 7 1227 Carouge"
 location_map : 
 when_start : 13-04-2018 9:00
