@@ -19,7 +19,9 @@ Dans une ambiance conviviale et festive, le grand public est invité à venir d�
 * ***14:30 - 16:00***
   * Ouverture des portes & café
   * Présentation des posters et démos
+  * [Pitching Session pour les projets sur la durabilité, sur le stand BNP Paribas]({{ site.baseurl }}/pitch_session_bnpparibas_fr){:target="_blank"}
   <br />
+  <br>
   <img src="{{ site.baseurl }}/images/hackshow/posters.jpg" height="125" alt="" class="imgspace" />&nbsp;<img src="{{ site.baseurl }}/images/hackshow/demo.jpg" height="125" alt="" class="imgspace" />
 
 
