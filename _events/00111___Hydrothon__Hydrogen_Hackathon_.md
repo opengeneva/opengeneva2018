@@ -14,7 +14,7 @@ url_logo : pangloss.png
 url_flyer : panglos.jpg
 url_moreinfo : http://panglosslabs.org
 url_registration : https://www.helloasso.com/associations/pangloss/evenements/hydrothon-hydrothon-hydrogen-hackathon-pangloss-labs
-url_sparkboard : 
+url_sparkboard : https://pangloss-hydrogen.sparkboard.com
 location_address : Pangloss Labs, 12 bis rue de Gex, 01210 Ferney-Voltaire, FRANCE
 location_map : 
 when_start : 14-04-2018 9:00

@@ -14,7 +14,7 @@ url_logo : logo_lift.png
 url_flyer : game_jam_flyer_opengeneva.png
 url_moreinfo : https://breathinggames.net/?q=en/open
 url_registration : https://liftevents.typeform.com/to/HSwg2N
-url_sparkboard : 
+url_sparkboard : https://breathinggames.sparkboard.com
 location_address : Centre Universitaire Informatique, Université de Genève, Battelle - bâtiment A, 7, route de Drize, CH-1227 Carouge (also online)
 location_map : 
 when_start : 12-04-2018 8:00
