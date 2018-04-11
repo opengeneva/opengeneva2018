@@ -21,6 +21,7 @@ permalink : /program/
 * **11:30am - 12:30pm :** Press Conference (French & English)
 
 * **2pm - 4pm :** [Organisez votre propre hackathon pour les TPE/PME](https://www.ccig.ch/agenda/2018/04/Organisez-votre-propre-hackathon){:target="_blank"}, with [CCIG](https://www.ccig.ch/) and [Best for Geneva](https://bestforgeneva.ch/) (in French)
+* **2pm - 5pm :** [Incubation @ Colibri -- Sipy]({{ site.baseurl }}/news/2018/04/08/incubation_bnpparibas_fr.html){:target="_blank"}
 * **4pm - 6pm :** [Kick off with all hackathon & event organizers](https://www.eventbrite.fr/e/billets-kick-off-open-geneva-44792372191?aff=es2){:target="_blank"} @ [CCIG](https://www.ccig.ch/)
 
 <br>
@@ -35,16 +36,20 @@ permalink : /program/
 
 * **all day :** [Gender Equality Hack @ Campus Biotech]({{ site.baseurl }}/hackathons/#10__Gender_Equality){:target="_blank"}
 
+* **9:00pm - 1:00pm :** [Incubation @ Colibri -- Le pain de demain c'est le pain d'hier]({{ site.baseurl }}/news/2018/04/08/incubation_bnpparibas_fr.html){:target="_blank"}
+* **2:00pm - 5:00pm :** [Incubation @ Colibri -- Saveurs Migrantes]({{ site.baseurl }}/news/2018/04/08/incubation_bnpparibas_fr.html){:target="_blank"}
+
 <br>
 **Evening Event**
 * **3:30pm - 5:00pm :** [Regards croisés sur la créativité et l'innovation @ Genève Aéroport](https://www.eventbrite.fr/e/billets-regards-croises-sur-la-creativite-et-linnovation-44193547089?utm_term=eventurl_text){:target="_blank"}
-
+* **6:00pm - 9:00pm :** Kick off [Smart City Hack #2](https://www.smartcityhack.ch){:target="_blank"} @ [Citi'zen](https://www.citizn.ch){:target="_blank"}
 <br>
 <hr>
 ### ***Wednesday 11th April 2018 | Hackathons***
 
 * **all day :** [Gender Equality Hack @ Campus Biotech]({{ site.baseurl }}/hackathons/#10__Gender_Equality){:target="_blank"}
 * **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon){:target="_blank"}
+* **all day :** [Incubation @ Colibri -- Etudiants pour le Développement Durable de l'Université de Genève]({{ site.baseurl }}/news/2018/04/08/incubation_bnpparibas_fr.html){:target="_blank"}
 
 <br>
 **Evening Event**
@@ -56,6 +61,7 @@ permalink : /program/
 ### ***Thursday 12th April 2018 | Hackathons***
 
 * **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon){:target="_blank"}
+* **all day :** [Incubation @ Colibri | Légumes perchés]({{ site.baseurl }}/news/2018/04/08/incubation_bnpparibas_fr.html){:target="_blank"}
 * **8:00am - 6pm (+2d):** [Health Game Jam 3rd Edition]({{ site.baseurl }}/hackathons/#05__Health_Game_Jam_3rd_Edition){:target="_blank"}
 * **10:00am - 3:30pm :** [Coty Beauty Hackathon]({{ site.baseurl }}/hackathons/#001211__Coty_Beauty_Hackathon){:target="_blank"}
 * **10:00am - 7:00pm (+1d) :** [Amaris Solidarity Platform Hackathon]({{ site.baseurl }}/hackathons/#001212__Solidarity_Platform_Hackathon){:target="_blank"}
@@ -73,7 +79,8 @@ permalink : /program/
 * **8am - 8pm (+1d) :** [3rd Hackathon @ University Hospitals ]({{ site.baseurl }}/hackathons/#001__Hackathon__3___Le_patient_dans_le_réseau_de_soin){:target="_blank"}
 * **8am - 8pm (+1d) :** [INILAB Citoyen]({{site.baseurl}}/hackathons/#00221__INILAB_Citoyen){:target="_blank"}
 * **8am - 8pm (+1d) :** [AESI Game Jam]({{site.baseurl}}/hackathons/#014__AESI_Game_Jam){:target="_blank"}
-* **9am - 8pm :** [Hackathon Politique Numérique]({{site.baseurl}}/hackathons/# 000121__Hackathon_Politique_Numérique){:target="_blank"}
+* **9am - 8pm :** [Hackathon Politique Numérique]({{site.baseurl}}/hackathons/#000121__Hackathon_Politique_Numérique){:target="_blank"}
+* **9am - 5pm (+1d):** [Sprint of Students Projects]{{site.baseurl}}/hackathons/#015__Sprint_of_Students_Projects){:target="_blank"}
 * **9am - 7pm (+1d) :** [Dessine-moi un FacLab]({{site.baseurl}}/hackathons/#0011__Dessine-moi_un_FacLab){:target="_blank"}
 * **9am - 8pm (+1d) :** [Blockchain Hackathon ARK & SonoCoin]({{site.baseurl}}/hackathons/#01123__Blockchain_Hackathon_ARK___SonoCoin){:target="_blank"}
 * **9am - 5pm (+1d) :** [Atelier de médiation culturelle]({{site.baseurl}}/hackathons/#23__Atelier_médiation_culturelle){:target="_blank"}
@@ -92,7 +99,7 @@ permalink : /program/
 ### ***Saturday 14th April 2018 | Hackathons***
 
 
-* **8:00am - 7pm :** [Mobility hackathon @CERN IdeaSquare]({{ site.baseurl }}/hackathons/#000120__Mobility_Hackathon_@CERN_IdeaSquare){:target="_blank"}
+* **8:00am - 7pm :** [Mobility hackathon @CERN IdeaSquare]({{ site.baseurl}}/hackathons/#000120__Mobility_Hackathon_@CERN_IdeaSquare){:target="_blank"}
 * **8:30am - 11pm :** [Hackathon pour la transition]({{ site.baseurl }}/hackathons/#06__Hackathon_pour_la_transition){:target="_blank"}
 * **8:30am - 11pm (+1d):** [Hackahealth]({{ site.baseurl }}/hackathons/#013__HackaHealth){:target="_blank"}
 * **9am - 6pm :** [Hydrothon : Hydrogen Hackathon]({{ site.baseurl }}/hackathons/#00111___Hydrothon__Hydrogen_Hackathon_){:target="_blank"}
@@ -116,6 +123,7 @@ permalink : /program/
 * **2:30pm - 7:30pm :** [Hack Show @ Espace Hippomène, Campus de la HEAD]({{ site.baseurl }}/hackshow)
 
   * ***2:30pm :*** doors open
+  * ***2:30pm - 3:30pm :*** [Pitching session on sustainability at BNP Paribas booth]({{ site.baseurl }}/pitch_session_bnpparibas)
   * ***4pm - 4:10pm :*** introduction
   * ***4:10pm - 4:30pm :*** 2 inspiring talks
   * ***4:30pm - 5:00pm :*** 5 project presentations
