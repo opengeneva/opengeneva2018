@@ -5,6 +5,7 @@ date:   2018-04-08 00:00:00 +0200
 categories: news
 lang: fr
 published: true
+permalink : /incubation_bnpparibas_fr/
 ---
 
 Dans le cadre d'Open Geneva, [BNP Paribas](http://www.bnpparibas.ch/en/){:target="_blank"} accueille dans son incubateur Colibri, à partir du 9 avril, cinq associations pour leur permettre de faire leur propre atelier d’innovation en mettant à disposition non seulement nos locaux, mais aussi de l’accompagnement et du coaching aux méthodes innovantes type méthodes Agile ou Design Thinking, par certains des collaborateurs de la banque impliqués dans Colibri.

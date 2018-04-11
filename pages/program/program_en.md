@@ -21,7 +21,7 @@ permalink : /program/
 * **11:30am - 12:30pm :** Press Conference (French & English)
 
 * **2pm - 4pm :** [Organisez votre propre hackathon pour les TPE/PME](https://www.ccig.ch/agenda/2018/04/Organisez-votre-propre-hackathon){:target="_blank"}, with [CCIG](https://www.ccig.ch/) and [Best for Geneva](https://bestforgeneva.ch/) (in French)
-* **2pm - 5pm :** [Incubation @ Colibri -- Sipy]({{ site.baseurl }}/news/2018/04/08/incubation_bnpparibas_fr.html){:target="_blank"}
+* **2pm - 5pm :** [Incubation @ Colibri -- Sipy]({{ site.baseurl }}/incubation_bnpparibas_fr/){:target="_blank"}
 * **4pm - 6pm :** [Kick off with all hackathon & event organizers](https://www.eventbrite.fr/e/billets-kick-off-open-geneva-44792372191?aff=es2){:target="_blank"} @ [CCIG](https://www.ccig.ch/)
 
 <br>
@@ -36,8 +36,8 @@ permalink : /program/
 
 * **all day :** [Gender Equality Hack @ Campus Biotech]({{ site.baseurl }}/hackathons/#10__Gender_Equality){:target="_blank"}
 
-* **9:00pm - 1:00pm :** [Incubation @ Colibri -- Le pain de demain c'est le pain d'hier]({{ site.baseurl }}/news/2018/04/08/incubation_bnpparibas_fr.html){:target="_blank"}
-* **2:00pm - 5:00pm :** [Incubation @ Colibri -- Saveurs Migrantes]({{ site.baseurl }}/news/2018/04/08/incubation_bnpparibas_fr.html){:target="_blank"}
+* **9:00pm - 1:00pm :** [Incubation @ Colibri -- Le pain de demain c'est le pain d'hier]({{ site.baseurl }}/incubation_bnpparibas_fr){:target="_blank"}
+* **2:00pm - 5:00pm :** [Incubation @ Colibri -- Saveurs Migrantes]({{ site.baseurl }}/incubation_bnpparibas_fr){:target="_blank"}
 
 <br>
 **Evening Event**
@@ -49,7 +49,7 @@ permalink : /program/
 
 * **all day :** [Gender Equality Hack @ Campus Biotech]({{ site.baseurl }}/hackathons/#10__Gender_Equality){:target="_blank"}
 * **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon){:target="_blank"}
-* **all day :** [Incubation @ Colibri -- Etudiants pour le Développement Durable de l'Université de Genève]({{ site.baseurl }}/news/2018/04/08/incubation_bnpparibas_fr.html){:target="_blank"}
+* **all day :** [Incubation @ Colibri -- Etudiants pour le Développement Durable de l'Université de Genève]({{ site.baseurl }}/incubation_bnpparibas_fr){:target="_blank"}
 
 <br>
 **Evening Event**
@@ -61,7 +61,7 @@ permalink : /program/
 ### ***Thursday 12th April 2018 | Hackathons***
 
 * **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon){:target="_blank"}
-* **all day :** [Incubation @ Colibri -- Légumes perchés]({{ site.baseurl }}/news/2018/04/08/incubation_bnpparibas_fr.html){:target="_blank"}
+* **all day :** [Incubation @ Colibri -- Légumes perchés]({{ site.baseurl }}/incubation_bnpparibas_fr/){:target="_blank"}
 * **8:00am - 6pm (+2d):** [Health Game Jam 3rd Edition]({{ site.baseurl }}/hackathons/#05__Health_Game_Jam_3rd_Edition){:target="_blank"}
 * **10:00am - 3:30pm :** [Coty Beauty Hackathon]({{ site.baseurl }}/hackathons/#001211__Coty_Beauty_Hackathon){:target="_blank"}
 * **10:00am - 7:00pm (+1d) :** [Amaris Solidarity Platform Hackathon]({{ site.baseurl }}/hackathons/#001212__Solidarity_Platform_Hackathon){:target="_blank"}
