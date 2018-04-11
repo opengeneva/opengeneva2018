@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pitch your SDG projects at BNP Paribas booth"
+title:  "Pitch your SDG projects at BNP Paribas & Amaris booth"
 date:   2018-04-08 00:00:00 +0200
 categories: news
 lang: en
@@ -18,7 +18,7 @@ You have worked out a project on the following themes during Open Geneva :
 
 
 <br>
-You are welcome to come and pitch your SDG project on the BNP Paribas booth on Sunday 15th April during the [HACKSHOW]({{ site.baseurl }}/hackshow). Experts and coaches in innovation will be there to listen to your ideas.
+You are welcome to come and pitch your SDG project on the BNP Paribas & Amaris booth on Sunday 15th April during the [HACKSHOW]({{ site.baseurl }}/hackshow). Experts and coaches in innovation from BNP Paribas & Amaris will be here to listen to your ideas.
 
 
 *To be the bank of a changing world is to always partner better with our clients and our teams

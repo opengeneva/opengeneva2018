@@ -64,7 +64,7 @@ François Grey, Abir Oreibi, Didier Faure, Rania Al-Baroudi, Jean-Henry Morin, P
 - **Didier Faure**, Fondateur Smart City Hack & Consultant @ <a href="http://www.innobridge.com/" target = "_blank">Innobridge</a>,  
 - **Prof. Antoine Geissbühler**, Directeur, <a href="https://www.hug-ge.ch/centre-innovation">Innovation Center, Geneva University Hospitals</a>
 - **Prof. François Grey**, Directeur, <a href="https://www.unige.ch/numerique/en/team/" target="_blank">Stratégie Digitale de l'Université de Genève</a>
-- **Cyril Jacquet**, Organisateur des <a href="http://www.srgssr.ch/de/multimedia/hackdays-2018/">SRG SSR Hackdays</a>
+- **Cyril Jaquet**, Organisateur des <a href="http://www.srgssr.ch/de/multimedia/hackdays-2018/">SRG SSR Hackdays</a>
 - **Dr. Thomas Maillart**, <a href="http://www.gt-initiative.org/" target = "_blank">Geneva-Tsinghua Initiative</a> & <a href="http://unige.ch/gsem/en" target="_blank">GSEM</a>, University de Genève
 - **Pierre Mirlesse**, Vice-Président Secteur Public EMEA, Hewlett Packard Enterprise.
 - **Prof. Jean-Henry Morin**, <a href="https://jhmorin.wordpress.com/" target="_blank">Systèmes d'Information et de Services, Université de Genève</a>

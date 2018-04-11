@@ -61,7 +61,7 @@ permalink : /program/
 ### ***Thursday 12th April 2018 | Hackathons***
 
 * **all day :** [Swiss Data Cube Hackathon @ Centre Universitaire Informatique]({{ site.baseurl }}/hackathons/#01__Swiss_Data_Cube_Hackathon){:target="_blank"}
-* **all day :** [Incubation @ Colibri | Légumes perchés]({{ site.baseurl }}/news/2018/04/08/incubation_bnpparibas_fr.html){:target="_blank"}
+* **all day :** [Incubation @ Colibri -- Légumes perchés]({{ site.baseurl }}/news/2018/04/08/incubation_bnpparibas_fr.html){:target="_blank"}
 * **8:00am - 6pm (+2d):** [Health Game Jam 3rd Edition]({{ site.baseurl }}/hackathons/#05__Health_Game_Jam_3rd_Edition){:target="_blank"}
 * **10:00am - 3:30pm :** [Coty Beauty Hackathon]({{ site.baseurl }}/hackathons/#001211__Coty_Beauty_Hackathon){:target="_blank"}
 * **10:00am - 7:00pm (+1d) :** [Amaris Solidarity Platform Hackathon]({{ site.baseurl }}/hackathons/#001212__Solidarity_Platform_Hackathon){:target="_blank"}

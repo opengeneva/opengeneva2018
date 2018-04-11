@@ -21,7 +21,7 @@ In a relaxed and festive atmosphere, citizen and people are invited to discover 
 * ***2:30pm - 4:00pm***
   * Doors open & Coffee
   * Poster presentations et demos
-  * [SDG Project Pitching Session at BNP Paribas booth]({{ site.baseurl }}/pitch_session_bnpparibas){:target="_blank"} 
+  * [SDG Project Pitching Session at BNP Paribas booth]({{ site.baseurl }}/pitch_session_bnpparibas){:target="_blank"}
   <br />
   <br>
   <img src="{{ site.baseurl }}/images/hackshow/posters.jpg" height="125" alt="" class="imgspace" />&nbsp;<img src="{{ site.baseurl }}/images/hackshow/demo.jpg" height="125" alt="" class="imgspace" />
@@ -70,7 +70,7 @@ In a relaxed and festive atmosphere, citizen and people are invited to discover 
 * ***5:30pm - 5:50pm :*** Panel
 <br />
   * **Cécile Catalano**, Lead at *SocialUp* Hackathon, *[Hospice Général](http://hospicegeneral.ch){:target="_blank"}*
-  * **Isabelle Jacob-Neboud**, Head of Development & Innovation, *[BNP Paribas Suisse](http://www.bnpparibas.ch/){:target="_blank"}*
+  * **Isabelle Jacob-Nebout**, Head of Development & Innovation, *[BNP Paribas Suisse](http://www.bnpparibas.ch/){:target="_blank"}*
   * **Yvan Cognasse**, Lead EMEA and JAPAC Cloud Applications Architecture, *[Oracle](https://www.oracle.com/index.html){:target="_blank"}*
   * **Pierre Mirlesse**, Vice President Public Sector, Healthcare & Pharma, *[HP Enterprise](https://www.hpe.com/ch/fr/home.html){:target="_blank"}*   
   <br />

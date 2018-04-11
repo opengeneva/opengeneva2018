@@ -63,7 +63,7 @@ Lina Bai travaille à Tsinghua x-lab. Sa mission est de favoriser l’imaginatio
 * ***17:30 - 17:50 :*** Table-Ronde
 <br />
   * **Cécile Catalano**, Organisatrice du Hackathon *SocialUp*, *[Hospice Général](http://hospicegeneral.ch){:target="_blank"}*
-  * **Isabelle Jacob-Neboud**, Directrice de l'Innovation, *[BNP Paribas Suisse](http://www.bnpparibas.ch/){:target="_blank"}*
+  * **Isabelle Jacob-Nebout**, Responsable Innovation & Développement, *[BNP Paribas Suisse](http://www.bnpparibas.ch/){:target="_blank"}*
   * **Yvan Cognasse**, Lead EMEA et JAPAC pour les Application Cloud, *[Oracle](https://www.oracle.com/index.html){:target="_blank"}*
   * **Pierre Mirlesse**, Vice-Président Secteur Public, Santé et Pharma, *[HP Enterprise](https://www.hpe.com/ch/fr/home.html){:target="_blank"}*
   <br />
