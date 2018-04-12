@@ -13,7 +13,7 @@ event_type : hackathon
 url_logo : logo_SIB_Swiss.png
 url_flyer : 
 url_moreinfo : https://www.sib.swiss/events/ogh-sib2018/
-url_registration : https://www.sib.swiss/sib-ls/index.php/356592/lang-en
+url_registration : 
 url_sparkboard : 
 location_address : International School of Geneva, 62, route de Chêne, CH-1208 Geneva
 location_map : 
