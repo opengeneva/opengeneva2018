@@ -18,7 +18,7 @@ You have worked out a project on the following themes during Open Geneva :
 
 
 <br>
-You are welcome to come and pitch your SDG project on the BNP Paribas & Amaris booth on Sunday 15th April during the [HACKSHOW]({{ site.baseurl }}/hackshow). Experts and coaches in innovation from BNP Paribas & Amaris will be here to listen to your ideas.
+You are welcome to come and pitch your SDG project on the BNP Paribas & Amaris booth on Sunday 15th April from 2:30pm until 3:30pm during the [HACKSHOW]({{ site.baseurl }}/hackshow). Experts and coaches in innovation from BNP Paribas & Amaris will be here to listen to your ideas.
 
 
 *To be the bank of a changing world is to always partner better with our clients and our teams

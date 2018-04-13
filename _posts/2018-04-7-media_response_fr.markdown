@@ -23,3 +23,6 @@ permalink : /media_fr/
 
 #### **World Radio Switzerland**
 [Open Geneva; hackathon and hackshow](https://worldradio.ch/article/open-geneva-hackathon-and-hackshow/){:target="_blank"}
+
+#### **Agefi**
+[Hackshow, Festival de l'Innovation ouverte](http://www.agefi.com/home/news/detail-ageficom/edition/online/article/hackshow-festival-de-linnovation-ouverte---150418-472999.html){:target="_blank"}
