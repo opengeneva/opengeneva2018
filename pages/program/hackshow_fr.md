@@ -11,6 +11,12 @@ permalink : /hackshow_fr/
 
 Dans une ambiance conviviale et festive, le grand public est invité à venir découvrir la présentation des projets développés par les innovateurs durant les **[30+ hackathons]({{ site.baseurl }}/hackathons_fr)**. Le **HACKSHOW** aura lieu le dimanche 15 avril de 14:30 à 19h30 au Campus de la HEAD.<br>
 
+<strong>Entrée Libre - Merci de s'inscrire</strong>
+
+<a href="https://www.eventbrite.com/e/open-geneva-hackshow-tickets-44587949758?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventname_text" target="_blank"><img src="{{ site.baseurl }}/images/sinscrire_button.png" width="200"></a>
+
+<br>
+
 {::comment}
 <iframe width="400" height="225" src="https://www.youtube.com/embed/kGFslZ8O-XU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
 {:/comment}
@@ -51,9 +57,10 @@ Lina Bai travaille à Tsinghua x-lab. Sa mission est de favoriser l’imaginatio
   * 4 presentations de projets de [hackathons](http:opengeneva.org/hackathons){:target="_blank"} *(Présentations en français et anglais)*  
 <br />
 * ***17:00 - 17:10***
-  * Ecouter l'Innovation -- [Haute Ecole de Musique de Genève](https://www.hesge.ch/hem/){:target="_blank"}  
+
+  * Interlude
   <br />
-  <img src="{{ site.baseurl }}/images/hackshow/logo_hem.png" height="125" alt="" class="imgspace" />&nbsp;&nbsp;<img src="{{ site.baseurl }}/images/hackshow/hem_banner.png" height="125" alt="" class="imgspace" />  
+  <iframe width="400" height="225" src="https://www.youtube.com/embed/kGFslZ8O-XU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <br />
 * ***17:10 - 17:30***

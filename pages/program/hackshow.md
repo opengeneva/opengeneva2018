@@ -12,6 +12,12 @@ permalink : /hackshow/
 In a relaxed and festive atmosphere, citizen and people are invited to discover projects developed by innovators during the **[30+ hackathons]({{ site.baseurl }}/hackathons){:target="_blank"}**. The **HACKSHOW** will be held on Sunday 15th April 2:30pm until 7:30pm @ Campus de la HEAD.
 
 
+<strong>Free Admission - Please Register Below</strong>
+
+<a href="https://www.eventbrite.com/e/open-geneva-hackshow-tickets-44587949758?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventname_text" target="_blank"><img src="{{ site.baseurl }}/images/register_button.png" width="200"></a>
+
+<br>
+
 {::comment}
 <iframe width="400" height="225" src="https://www.youtube.com/embed/kGFslZ8O-XU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
 {:/comment}
@@ -58,9 +64,11 @@ In a relaxed and festive atmosphere, citizen and people are invited to discover 
   * 4 project presentations from [hackathons](http:opengeneva.org/hackathons){:target="_blank"} *(Talks in French or English)*  
 <br />
 * ***5:00pm - 5:10pm***
-  * Listen to Innovation -- [Haute Ecole de Musique de Genève](https://www.hesge.ch/hem/){:target="_blank"}  
+
+  * Interlude
   <br />
-  <img src="{{ site.baseurl }}/images/hackshow/logo_hem.png" height="125" alt="" class="imgspace" />&nbsp;&nbsp;<img src="{{ site.baseurl }}/images/hackshow/hem_banner.png" height="125" alt="" class="imgspace" />  
+  <iframe width="400" height="225" src="https://www.youtube.com/embed/kGFslZ8O-XU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 <br />
 * ***5:10pm - 5:30pm***
