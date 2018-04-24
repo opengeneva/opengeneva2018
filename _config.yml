@@ -116,6 +116,10 @@ t:
       name: "À propos"
       url: "/apropos/"
       display : true
+    media:
+      name: "Media"
+      url : "/media/"
+      display : false
     baseline: "<strong>Festival d'Innovation Ouverte</strong> <br>science, technologie & société"
     repost: "post original"
     main_partners : "Partenaires Principaux"
@@ -147,4 +151,8 @@ t:
        name: "关于我们"
        url: "/关于我们/"
        display : true
+     media:
+      name: "Media"
+      url : "/media_fr/"
+      display : false
      baseline: "<strong>An Open Innovation Festival</strong> <br> for science, technology & society"
