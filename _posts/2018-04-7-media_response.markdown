@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  "Media Response"
-date:   2018-04-09 00:00:00 +0200
+date:   2018-04-20 00:00:00 +0200
 categories: news
 lang: en
 published: true
 permalink : /media/
 ---
 
+#### **Bilan.ch**
+[20/04/2018 : BNP Paribas (Suisse) stimule la créativité des start-up locales](http://www.bilan.ch/bilan-plus-de-redaction/bnp-paribas-suisse-stimule-creativite-start-locales){:target="_blank"}
 
 #### **RTS - La 1ère**
 [23/04/2018 : La Matinale 5h - 6h30 - Futur Antérieur](https://www.rts.ch/play/radio/la-matinale-5h-6h30/audio/futur-anterieur-linnovation-a-lere-des-hackathons?id=9487937)
