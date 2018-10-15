@@ -2,7 +2,8 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ "" | relative_url}}">open geneva</a>
+    <a class="site-title"  href="{{ site.baseurl }}{{site.t[page.lang].home.url}}"><img src="{{ site.baseurl }}/images/logo_opengeneva_title_{{page.lang}}.png" height="65" alt="" class="imgspace" style="position:absolute; top:5px;" /></a>
+    <a class="site-baseline">{{site.t[page.lang].baseline}}</a>
 
     <nav class="site-nav">
       <span class="menu-icon">
@@ -13,12 +14,24 @@
         </svg>
       </span>
 
-      <div class="trigger">
-        <a class="page-link" href="{{ site.baseurl }}/index">about</a>
-        {% include icon-twitter.html username=site.twitter_username %}   &nbsp;
-        {% include icon-github.html username=site.github_username %}
 
+
+      <div class="trigger">
+        <strong>
+
+          {% assign navigation=site.t[page.lang] %}
+
+            {% for menu in navigation %}
+              {% if menu[1].display == true %}
+                <a href="{{ site.baseurl }}{{ menu[1].url }}" text-transform="uppercase">{{ menu[1].name }}</a>&nbsp; &nbsp;
+                {% endif %}
+            {% endfor %}
+
+           <a href="{{ site.baseurl }}{{site.t['en'].[page.ref].url}}" >ENG</a>  | <a href="{{ site.baseurl }}{{site.t['fr'].[page.ref].url}}" >FR</a> | <a href="{{ site.baseurl }}{{site.t['zh'].[page.ref].url}}" >中文</a> &nbsp;
+          {% include social-media.html %}
+      </strong>
       </div>
+
     </nav>
 
   </div>

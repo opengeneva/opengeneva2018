@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Rapport Open Geneva 2018"
+date:   2018-09-14 00:00:00 +0200
+categories: news
+lang: fr
+published: true
+---
+
+L'association Open Geneva publie aujourd'hui son rapport stratégique qui revient sur l'édition 2018 du
+Festival d'Innovation Ouverte à Genève, et ébauche les directions stratégiques
+prises pour la prochaine édition, qui aura lieu du 18 au 24 mars 2019.
+
+Un grand merci à tous les participants, organisateurs d'événements, volontaires, et à nos partenaires. Au plaisir de vous revoir en 2019!
+
+
+<a href="{{ site.baseurl }}/images/Rapport_OpenGeneva_2018.pdf" target=""><img src="{{ site.baseurl }}/images/Rapport_OpenGeneva_2018.png" width="60%" alt="" class="imgspace" /></a>

@@ -3,29 +3,35 @@ layout: default
 ---
 
 <div class="home">
-<h2>Organisation</h2>
-<h3><a class="page-link" href={{ site.baseurl }}{% post_url 2017-04-12-agenda %}> Agenda / Schedule </a></h3>
-<h3><a class="page-link" href={{ site.baseurl }}{% post_url 2017-04-13-participer %}> Participer / Be Involved </a></h3>
-<h3><a class="page-link" href={{ site.baseurl }}{% post_url 2017-04-12-hackathons %}> Liste des Hackathons / List of Hackathons </a></h3>
+
+<strong>
+<!-- <p style="font-size: 18px">Quick Links (English only):</p> -->
+<p style="font-size: 16px">Latest news on Twitter : <a href="https://twitter.com/opengeneva" target="_blank">@opengeneva</a></p>
+<!-- <p style="font-size: 16px"><a href="https://goo.gl/forms/squpuIoTCzXE7F9y1">Announce an event to Open Geneva (until March 30th 2018)</a></p>
+<p style="font-size: 16px"><a href="https://goo.gl/forms/SpsmEw7gPe5qt5YJ3">Volunteer to help the organization (now open)</a></p>
+<p style="font-size: 16px"><a href="https://www.eventbrite.com/e/open-geneva-hackshow-tickets-44587949758?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventname_text" target="_blank">
+  Register to the HACKSHOW on Sunday 15th April 2018 (now open)</a></p>
+-->
+</strong>
 
 
-<br>
-<h2>News</h2>
-
-  {{ content }}
 
   <ul class="post-list">
-    {% for post in site.posts reversed %}
-      <br>
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    {% for post in site.posts %}
+      {% if post.lang == page.lang %}
+        <br>
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h1>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h1>
-        {{ post.excerpt }}
-      </li>
 
+          <h1>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h1>
+          {% include share-bar-excerpt.html %}
+          {{ post.excerpt }}
+
+        </li>
+        {% endif %}
     {% endfor %}
   </ul>
 

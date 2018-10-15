@@ -1,539 +1,116 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2017-09-05T23:42:27+02:00</updated><id>http://localhost:4001/</id><title type="html">Open Geneva</title><subtitle>A Festival of Open Innovation for Science, Technology and Society</subtitle><entry><title type="html">éditions précédentes / previous editions</title><link href="http://localhost:4001/organisation/2017/04/25/old_ogh.html" rel="alternate" type="text/html" title="éditions précédentes / previous editions" /><published>2017-04-25T15:06:26+02:00</published><updated>2017-04-25T15:06:26+02:00</updated><id>http://localhost:4001/organisation/2017/04/25/old_ogh</id><content type="html" xml:base="http://localhost:4001/organisation/2017/04/25/old_ogh.html">&lt;h3 id=&quot;open-geneva-2016---campus-biotech&quot;&gt;&lt;a href=&quot;http://theport.ch/home/open-geneva-2016-campus-biotech/&quot; title=&quot;Open Geneva 2016 Campus Biotech&quot;&gt;Open Geneva 2016 - Campus Biotech&lt;/a&gt;&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4001/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4001/" rel="alternate" type="text/html" /><updated>2018-10-15T15:01:02+02:00</updated><id>http://localhost:4001/</id><title type="html">Open Geneva</title><subtitle>A Festival of Open Innovation for Science, Technology and Society</subtitle><entry xml:lang="en"><title type="html">Report Open Geneva 2018</title><link href="http://localhost:4001/news/2018/09/14/report.html" rel="alternate" type="text/html" title="Report Open Geneva 2018" /><published>2018-09-14T00:00:00+02:00</published><updated>2018-09-14T00:00:00+02:00</updated><id>http://localhost:4001/news/2018/09/14/report</id><content type="html" xml:base="http://localhost:4001/news/2018/09/14/report.html">&lt;p&gt;Open Geneva publishes today its strategic report, which summarises the highlights of the 2018
+edition of the Open Innovation Festival in Geneva. The report also outlines the strategic directions
+taken for the next edition of the Festival on 18th - 24th March 2019.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;[Eng]&lt;/strong&gt; Innovating global health with open data.&lt;/p&gt;
+&lt;p&gt;A big Thank You to all participants, event organisers, volunteers, and partners. See you in 2019!&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;[Fr]&lt;/strong&gt; Innover dans le domaine de la santé avec des données ouvertes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[report currently only in French]&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/opengeneva_2016-small.png&quot; alt=&quot;hackathon 2016&quot; title=&quot;Open Geneva Hackathons 2016&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/Rapport_OpenGeneva_2018.pdf&quot; target=&quot;&quot;&gt;&lt;img src=&quot;/images/Rapport_OpenGeneva_2018.png&quot; width=&quot;60%&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Open Geneva publishes today its strategic report, which summarises the highlights of the 2018 edition of the Open Innovation Festival in Geneva. The report also outlines the strategic directions taken for the next edition of the Festival on 18th - 24th March 2019. A big Thank You to all participants, event organisers, volunteers, and partners. See you in 2019! [report currently only in French]</summary></entry><entry xml:lang="fr"><title type="html">Rapport Open Geneva 2018</title><link href="http://localhost:4001/news/2018/09/14/report-fr.html" rel="alternate" type="text/html" title="Rapport Open Geneva 2018" /><published>2018-09-14T00:00:00+02:00</published><updated>2018-09-14T00:00:00+02:00</updated><id>http://localhost:4001/news/2018/09/14/report-fr</id><content type="html" xml:base="http://localhost:4001/news/2018/09/14/report-fr.html">&lt;p&gt;L’association Open Geneva publie aujourd’hui son rapport stratégique qui revient sur l’édition 2018 du
+Festival d’Innovation Ouverte à Genève, et ébauche les directions stratégiques
+prises pour la prochaine édition, qui aura lieu du 18 au 24 mars 2019.&lt;/p&gt;
 
-&lt;h3 id=&quot;open-geneva-2015---concours-etudiants&quot;&gt;&lt;a href=&quot;http://www.opengeneva.ch/concours/&quot;&gt;Open Geneva 2015 - Concours Etudiants&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Un grand merci à tous les participants, organisateurs d’événements, volontaires, et à nos partenaires. Au plaisir de vous revoir en 2019!&lt;/p&gt;
 
-&lt;p&gt;Concours pendant 2 week-ends consacré à l’innovation en utilisant des données ouvertes en vue de rendre la vie à Genève encore plus agréable.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/Rapport_OpenGeneva_2018.pdf&quot; target=&quot;&quot;&gt;&lt;img src=&quot;/images/Rapport_OpenGeneva_2018.png&quot; width=&quot;60%&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">L’association Open Geneva publie aujourd’hui son rapport stratégique qui revient sur l’édition 2018 du Festival d’Innovation Ouverte à Genève, et ébauche les directions stratégiques prises pour la prochaine édition, qui aura lieu du 18 au 24 mars 2019. Un grand merci à tous les participants, organisateurs d’événements, volontaires, et à nos partenaires. Au plaisir de vous revoir en 2019!</summary></entry><entry xml:lang="en"><title type="html">Open Geneva - Flash Back</title><link href="http://localhost:4001/news/2018/05/03/video.html" rel="alternate" type="text/html" title="Open Geneva - Flash Back" /><published>2018-05-03T00:00:00+02:00</published><updated>2018-05-03T00:00:00+02:00</updated><id>http://localhost:4001/news/2018/05/03/video</id><content type="html" xml:base="http://localhost:4001/news/2018/05/03/video.html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XFkzUpvKoq4&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Open Geneva - Retour en Images</title><link href="http://localhost:4001/news/2018/05/03/video-fr.html" rel="alternate" type="text/html" title="Open Geneva - Retour en Images" /><published>2018-05-03T00:00:00+02:00</published><updated>2018-05-03T00:00:00+02:00</updated><id>http://localhost:4001/news/2018/05/03/video-fr</id><content type="html" xml:base="http://localhost:4001/news/2018/05/03/video-fr.html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XFkzUpvKoq4&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry xml:lang="fr"><title type="html">Couverture Media</title><link href="http://localhost:4001/media_fr/" rel="alternate" type="text/html" title="Couverture Media" /><published>2018-04-20T00:00:00+02:00</published><updated>2018-04-20T00:00:00+02:00</updated><id>http://localhost:4001/media_response_fr</id><content type="html" xml:base="http://localhost:4001/media_fr/">&lt;h4 id=&quot;bilanch&quot;&gt;&lt;strong&gt;Bilan.ch&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.bilan.ch/bilan-plus-de-redaction/bnp-paribas-suisse-stimule-creativite-start-locales&quot; target=&quot;_blank&quot;&gt;20/04/2018 : BNP Paribas (Suisse) stimule la créativité des start-up locales&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/opengeneva2015-small.png&quot; alt=&quot;hackathon 2015&quot; title=&quot;Open Geneva Hackathons 2015&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Open Geneva 2016 - Campus Biotech [Eng] Innovating global health with open data. [Fr] Innover dans le domaine de la santé avec des données ouvertes. Open Geneva 2015 - Concours Etudiants Concours pendant 2 week-ends consacré à l’innovation en utilisant des données ouvertes en vue de rendre la vie à Genève encore plus agréable.</summary></entry><entry><title type="html">participer / be involved</title><link href="http://localhost:4001/organisation/2017/04/13/participer.html" rel="alternate" type="text/html" title="participer / be involved" /><published>2017-04-13T15:06:26+02:00</published><updated>2017-04-13T15:06:26+02:00</updated><id>http://localhost:4001/organisation/2017/04/13/participer</id><content type="html" xml:base="http://localhost:4001/organisation/2017/04/13/participer.html">&lt;p&gt;&lt;a href=&quot;/organisation/2017/04/13/participer.html#english&quot;&gt;[ English below ]&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;rts---la-1ère&quot;&gt;&lt;strong&gt;RTS - La 1ère&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.rts.ch/play/radio/la-matinale-5h-6h30/audio/futur-anterieur-linnovation-a-lere-des-hackathons?id=9487937&quot;&gt;23/04/2018 : La Matinale 5h - 6h30 - Futur Antérieur&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;&lt;strong&gt;[ Français ]&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;agefi&quot;&gt;&lt;strong&gt;Agefi&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.agefi.com/home/news/detail-ageficom/edition/online/article/hackshow-festival-de-linnovation-ouverte---150418-472999.html&quot; target=&quot;_blank&quot;&gt;16/04/2018 : Hackshow, Festival de l’Innovation ouverte&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Il y a 3 manières de participer aux Open Geneva Hackathons:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.agefi.com/nc/quotidien-agefi/europe-monde/detail/edition/2018-04-16/article/la-quatrieme-edition-de-levenement-sest-cloturee-ce-dimanche-ce-qui-netait-quune-reunion-de-hackathons-est-devenu-un-festival-multi-facette-473904.html&quot;&gt;16/04/2018 : L’innovation se développe sous le signe de la diversité à l’Open Geneva&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4&gt;1. Hacker :&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.agefi.com/quotidien-agefi/une/detail/edition/2018-04-16/article/hackathon-la-quatrieme-edition-de-lopen-geneva-sest-cloturee-sur-la-presentation-denviron-150-projets-473940.html&quot; target=&quot;_blank&quot;&gt;16/04/2018 : L’innovation éclot dans la diversité&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;rts-info&quot;&gt;&lt;strong&gt;RTS Info&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.rts.ch/play/tv/19h30/video/hackatons-quand-le-bricolage-vole-au-secours-des-handicapes---?id=9486214&quot;&gt;14/04/2018 : 19h30 - Hackatons: quand le bricolage vole au secours des handicapés&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;world-radio-switzerland&quot;&gt;&lt;strong&gt;World Radio Switzerland&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://worldradio.ch/article/open-geneva-hackathon-and-hackshow/&quot; target=&quot;_blank&quot;&gt;10/04/2018 : Open Geneva; hackathon and hackshow&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;tribune-de-genève&quot;&gt;&lt;strong&gt;Tribune de Genève&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.tdg.ch/geneve/actu-genevoise/festival-innovation-deroule-semaine-canton/story/25004401&quot; target=&quot;_blank&quot;&gt;09/04/2018 : Un festival autour de l’innovation se déroule cette semaine dans le canton&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;léman-bleu&quot;&gt;&lt;strong&gt;Léman Bleu&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.lemanbleu.ch/fr/News/Le-Paleo-Festival-de-l-innovation-demarre-aujourd-hui.html&quot; target=&quot;_blank&quot;&gt;09/04/2018 : Le Paléo Festival De L’Innovation Démarre Aujourd’hui&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;bilanch-1&quot;&gt;&lt;strong&gt;Bilan.ch&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.bilan.ch/plus-de-redaction/hackathon-a-profite-linnovation&quot; target=&quot;_blank&quot;&gt;06/04/2018 : Hackathon: à qui profite l’innovation ?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;journal-de-lunige--issue-144&quot;&gt;&lt;strong&gt;Journal de l’UNIGE | Issue 144&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.unige.ch/lejournal/numeros/journal144/article-point-fort/&quot; target=&quot;_blank&quot;&gt;05/04/2018 : «Pour innover, il faut développer une culture du partage de l’information»&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Bilan.ch 20/04/2018 : BNP Paribas (Suisse) stimule la créativité des start-up locales RTS - La 1ère 23/04/2018 : La Matinale 5h - 6h30 - Futur Antérieur Agefi 16/04/2018 : Hackshow, Festival de l’Innovation ouverte 16/04/2018 : L’innovation se développe sous le signe de la diversité à l’Open Geneva 16/04/2018 : L’innovation éclot dans la diversité RTS Info 14/04/2018 : 19h30 - Hackatons: quand le bricolage vole au secours des handicapés World Radio Switzerland 10/04/2018 : Open Geneva; hackathon and hackshow Tribune de Genève 09/04/2018 : Un festival autour de l’innovation se déroule cette semaine dans le canton Léman Bleu 09/04/2018 : Le Paléo Festival De L’Innovation Démarre Aujourd’hui Bilan.ch 06/04/2018 : Hackathon: à qui profite l’innovation ? Journal de l’UNIGE | Issue 144 05/04/2018 : «Pour innover, il faut développer une culture du partage de l’information»</summary></entry><entry xml:lang="en"><title type="html">Media Response</title><link href="http://localhost:4001/media/" rel="alternate" type="text/html" title="Media Response" /><published>2018-04-20T00:00:00+02:00</published><updated>2018-04-20T00:00:00+02:00</updated><id>http://localhost:4001/media_response</id><content type="html" xml:base="http://localhost:4001/media/">&lt;h4 id=&quot;bilanch&quot;&gt;&lt;strong&gt;Bilan.ch&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.bilan.ch/bilan-plus-de-redaction/bnp-paribas-suisse-stimule-creativite-start-locales&quot; target=&quot;_blank&quot;&gt;20/04/2018 : BNP Paribas (Suisse) stimule la créativité des start-up locales&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;rts---la-1ère&quot;&gt;&lt;strong&gt;RTS - La 1ère&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.rts.ch/play/radio/la-matinale-5h-6h30/audio/futur-anterieur-linnovation-a-lere-des-hackathons?id=9487937&quot;&gt;23/04/2018 : La Matinale 5h - 6h30 - Futur Antérieur&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;agefi&quot;&gt;&lt;strong&gt;Agefi&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.agefi.com/home/news/detail-ageficom/edition/online/article/hackshow-festival-de-linnovation-ouverte---150418-472999.html&quot; target=&quot;_blank&quot;&gt;16/04/2018 : Hackshow, Festival de l’Innovation ouverte&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.agefi.com/nc/quotidien-agefi/europe-monde/detail/edition/2018-04-16/article/la-quatrieme-edition-de-levenement-sest-cloturee-ce-dimanche-ce-qui-netait-quune-reunion-de-hackathons-est-devenu-un-festival-multi-facette-473904.html&quot;&gt;16/04/2018 : L’innovation se développe sous le signe de la diversité à l’Open Geneva&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.agefi.com/quotidien-agefi/une/detail/edition/2018-04-16/article/hackathon-la-quatrieme-edition-de-lopen-geneva-sest-cloturee-sur-la-presentation-denviron-150-projets-473940.html&quot; target=&quot;_blank&quot;&gt;16/04/2018 : L’innovation éclot dans la diversité&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;rts-info&quot;&gt;&lt;strong&gt;RTS Info&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.rts.ch/play/tv/19h30/video/hackatons-quand-le-bricolage-vole-au-secours-des-handicapes---?id=9486214&quot;&gt;14/04/2018 : 19h30 - Hackatons: quand le bricolage vole au secours des handicapés&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;world-radio-switzerland&quot;&gt;&lt;strong&gt;World Radio Switzerland&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://worldradio.ch/article/open-geneva-hackathon-and-hackshow/&quot; target=&quot;_blank&quot;&gt;10/04/2018 : Open Geneva; hackathon and hackshow&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;tribune-de-genève&quot;&gt;&lt;strong&gt;Tribune de Genève&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.tdg.ch/geneve/actu-genevoise/festival-innovation-deroule-semaine-canton/story/25004401&quot; target=&quot;_blank&quot;&gt;09/04/2018 : Un festival autour de l’innovation se déroule cette semaine dans le canton&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;léman-bleu&quot;&gt;&lt;strong&gt;Léman Bleu&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.lemanbleu.ch/fr/News/Le-Paleo-Festival-de-l-innovation-demarre-aujourd-hui.html&quot; target=&quot;_blank&quot;&gt;09/04/2018 : Le Paléo Festival De L’Innovation Démarre Aujourd’hui&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;bilanch-1&quot;&gt;&lt;strong&gt;Bilan.ch&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.bilan.ch/plus-de-redaction/hackathon-a-profite-linnovation&quot; target=&quot;_blank&quot;&gt;06/04/2018 : Hackathon: à qui profite l’innovation ?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;journal-de-lunige--issue-144&quot;&gt;&lt;strong&gt;Journal de l’UNIGE | Issue 144&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.unige.ch/lejournal/numeros/journal144/article-point-fort/&quot; target=&quot;_blank&quot;&gt;05/04/2018 : «Pour innover, il faut développer une culture du partage de l’information»&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Bilan.ch 20/04/2018 : BNP Paribas (Suisse) stimule la créativité des start-up locales RTS - La 1ère 23/04/2018 : La Matinale 5h - 6h30 - Futur Antérieur Agefi 16/04/2018 : Hackshow, Festival de l’Innovation ouverte 16/04/2018 : L’innovation se développe sous le signe de la diversité à l’Open Geneva 16/04/2018 : L’innovation éclot dans la diversité RTS Info 14/04/2018 : 19h30 - Hackatons: quand le bricolage vole au secours des handicapés World Radio Switzerland 10/04/2018 : Open Geneva; hackathon and hackshow Tribune de Genève 09/04/2018 : Un festival autour de l’innovation se déroule cette semaine dans le canton Léman Bleu 09/04/2018 : Le Paléo Festival De L’Innovation Démarre Aujourd’hui Bilan.ch 06/04/2018 : Hackathon: à qui profite l’innovation ? Journal de l’UNIGE | Issue 144 05/04/2018 : «Pour innover, il faut développer une culture du partage de l’information»</summary></entry><entry xml:lang="fr"><title type="html">HACKSHOW</title><link href="http://localhost:4001/news/2018/04/10/HACKSHOW_fr.html" rel="alternate" type="text/html" title="HACKSHOW" /><published>2018-04-10T00:00:00+02:00</published><updated>2018-04-10T00:00:00+02:00</updated><id>http://localhost:4001/news/2018/04/10/HACKSHOW_fr</id><content type="html" xml:base="http://localhost:4001/news/2018/04/10/HACKSHOW_fr.html">&lt;p&gt;Ne ratez pas le &lt;strong&gt;HACKSHOW&lt;/strong&gt;, un moment unique pour découvrir les visages de l’innovation, et les résultats de plus de 30 hackathons à travers Genève. Durant les hackathons de Open Geneva, toutes sortes d’innovateurs sont à l’oeuvre: des ingénieurs, desinnovateurs sociaux, des innovateurs blockchain, des innovateurs dans le domaine médical, dans l’humanitaire, ainsi que des jeunes et des moins jeunes innovateurs, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/hackshow&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/hackshow/banner_hackshow.jpg&quot; width=&quot;80%&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/hackshow_fr&quot;&gt;En savoir plus sur le HACKSHOW&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Ne ratez pas le HACKSHOW, un moment unique pour découvrir les visages de l’innovation, et les résultats de plus de 30 hackathons à travers Genève. Durant les hackathons de Open Geneva, toutes sortes d’innovateurs sont à l’oeuvre: des ingénieurs, desinnovateurs sociaux, des innovateurs blockchain, des innovateurs dans le domaine médical, dans l’humanitaire, ainsi que des jeunes et des moins jeunes innovateurs, etc. En savoir plus sur le HACKSHOW</summary></entry><entry xml:lang="en"><title type="html">HACKSHOW</title><link href="http://localhost:4001/news/2018/04/10/HACKSHOW.html" rel="alternate" type="text/html" title="HACKSHOW" /><published>2018-04-10T00:00:00+02:00</published><updated>2018-04-10T00:00:00+02:00</updated><id>http://localhost:4001/news/2018/04/10/HACKSHOW</id><content type="html" xml:base="http://localhost:4001/news/2018/04/10/HACKSHOW.html">&lt;p&gt;Don’t miss the &lt;strong&gt;HACKSHOW&lt;/strong&gt;, the unique moment when you can discover the results of 30+ hackathons, and meet with all sorts of innovators, not only engineers, but also social innovators, transition innovators, hospital innovators, blockchain innovators, humanitarian innovators, youth innovators, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/hackshow&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/hackshow/banner_hackshow.jpg&quot; width=&quot;80%&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/hackshow&quot;&gt;Learn More about HACKSHOW&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Don’t miss the HACKSHOW, the unique moment when you can discover the results of 30+ hackathons, and meet with all sorts of innovators, not only engineers, but also social innovators, transition innovators, hospital innovators, blockchain innovators, humanitarian innovators, youth innovators, etc. Learn More about HACKSHOW</summary></entry><entry xml:lang="en"><title type="html">SonoCoin aims to leverage the expertise and motivation of Open Geneva</title><link href="http://localhost:4001/news/2018/04/08/sonocoin_ark.html" rel="alternate" type="text/html" title="SonoCoin aims to leverage the expertise and motivation of Open Geneva" /><published>2018-04-08T00:00:00+02:00</published><updated>2018-04-08T00:00:00+02:00</updated><id>http://localhost:4001/news/2018/04/08/sonocoin_ark</id><content type="html" xml:base="http://localhost:4001/news/2018/04/08/sonocoin_ark.html">&lt;p&gt;&lt;strong&gt;SonoCoin&lt;/strong&gt; is presenting at Open Geneva, a notable Open Innovation Festival. The event promotes open innovation and aims to encourage development in science, technology and the environment.
+Open Geneva will include over 35 innovative projects focusing on industries ranging from renewable energy to blockchain and various other technologically related fields. An expected 500 participants with a broad variety of skills and backgrounds will be attending Open Geneva from the 9th through the 15th of April 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SonoCoin&lt;/strong&gt; aims to leverage the expertise and motivation of Open Geneva’s community to openly discuss the project’s technology and provide feedback on the following subjects:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Vous voulez participer à un hackathon, mais vous n’avez pas projet?&lt;/li&gt;
-  &lt;li&gt;Vous voulez proposer un projet à un hackathons?&lt;/li&gt;
+  &lt;li&gt;Application presentation and walk-through&lt;/li&gt;
+  &lt;li&gt;Commercial use cases – Openly discuss real world &lt;strong&gt;SonoCoin&lt;/strong&gt; applications&lt;/li&gt;
+  &lt;li&gt;Technical roadmap - Past, current and future software developments&lt;/li&gt;
+  &lt;li&gt;Community optimization discussion – How can &lt;strong&gt;SonoCoin&lt;/strong&gt; reach out to its local community more efficiently?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Contactez directement les organisateurs du &lt;a href=&quot;/organisation/2017/04/12/hackathons.html&quot;&gt; hackathon de votre choix&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+To generate interest, &lt;strong&gt;SonoCoin&lt;/strong&gt; will be rewarding participants with 5 coins each during the event. Our team’s goal is to educate attendees by encouraging the download and exchange of &lt;strong&gt;SonoCoin&lt;/strong&gt; is as a way to receive valuable feedback on the technology and interface.
+&lt;strong&gt;SonoCoin&lt;/strong&gt; will be proudly presenting beside &lt;strong&gt;ARK.io&lt;/strong&gt; on Saturday the 3rd of April. Our team is excited to interact with &lt;strong&gt;ARK.io&lt;/strong&gt; and benefit from their experience. We look forward to sharing a productive hackathon with our local blockchain community.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;About ARK.io&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h4&gt;2. Organiser un Hackathon (deadline 30 avril 2017) :&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;ARK.io&lt;/strong&gt; ecosystem aims to interconnect blockchains through what is called the &lt;strong&gt;ARK.io&lt;/strong&gt; Smartbridge. &lt;strong&gt;ARK.io&lt;/strong&gt; uses delegated-proof-of-stake as its protocol in which 51 nominated delegates are tasked with running the network. Delegates distribute dividends to those who voted for them in exchange for their support. &lt;strong&gt;ARK&lt;/strong&gt; looks to connect blockchains by tweaking the code to become compatible with their own network. Once connected the protocol makes it possible to communicate and trigger functions on a completely different blockchain.&lt;/p&gt;
 
-&lt;p&gt;Vous voulez organiser votre propre hackathon, car vous ne trouvez pas le &lt;a href=&quot;/organisation/2017/04/12/hackathons.html&quot;&gt;hackathon qui vous convient?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;About SonoCoin&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Contactez les organisateurs des Open Geneva Hackathons : &lt;a href=&quot;mailto:hello@opengeneva.org&quot;&gt;hello@opengeneva.org&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4&gt;3. Vous êtes simplement curieux de voir les résultats des hackathons :&lt;/h4&gt;
-
-&lt;p&gt;Venez chercher l’inspiration à la présentation finale et rencontrer des gens? Prenez part au cocktail et networking au Campus Biotech le 14 mai de 16h à 19h.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;S’inscrire pour l’événement final (14 mai 2017, 16h-19h &lt;a href=&quot;https://www.unige.ch/presse/plans/cmu-2/&quot; target=&quot;_blank&quot;&gt;@ Campus Biotech &lt;/a&gt;) :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/open-geneva-hackathons-tickets-33669345920&quot; class=&quot;button style1&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/register_eventbrite_eng.png&quot; alt=&quot;register&quot; style=&quot;width:200px; align:center&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div id=&quot;english&quot;&gt;&lt;/div&gt;
-&lt;h3&gt;&lt;strong&gt;[ English ]&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;Here are three way to participate to the Open Geneva Hackathons:&lt;/p&gt;
-
-&lt;h4&gt;1. Hack :&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;SonoCoin&lt;/strong&gt; is a digitally encrypted audio file that operates on a proprietary blockchain system, using the Proof-of-Stake (PoS) protocol to verify transactions. The &lt;strong&gt;SonoCoin&lt;/strong&gt; audio file is a sound interpretation of a code that can be recognized and recorded by any device that reproduces sound. The &lt;strong&gt;SonoCoin&lt;/strong&gt; solution is similar to Bitcoin’s peer-to-peer value transfer, with an improved and more user-friendly platform similar to PayPal. To reduce the cost for end-users, the service has been streamlined to a less complex lighter protocol. Operations and interfaces use a light version of the blockchain network, allowing for a decentralized operation with faster transactions. The framework also provides transaction flexibility across various popular peer-to-peer messaging platforms, social networks, and email.&lt;/p&gt;</content><author><name></name></author><summary type="html">SonoCoin is presenting at Open Geneva, a notable Open Innovation Festival. The event promotes open innovation and aims to encourage development in science, technology and the environment. Open Geneva will include over 35 innovative projects focusing on industries ranging from renewable energy to blockchain and various other technologically related fields. An expected 500 participants with a broad variety of skills and backgrounds will be attending Open Geneva from the 9th through the 15th of April 2018. SonoCoin aims to leverage the expertise and motivation of Open Geneva’s community to openly discuss the project’s technology and provide feedback on the following subjects: Application presentation and walk-through Commercial use cases – Openly discuss real world SonoCoin applications Technical roadmap - Past, current and future software developments Community optimization discussion – How can SonoCoin reach out to its local community more efficiently? To generate interest, SonoCoin will be rewarding participants with 5 coins each during the event. Our team’s goal is to educate attendees by encouraging the download and exchange of SonoCoin is as a way to receive valuable feedback on the technology and interface. SonoCoin will be proudly presenting beside ARK.io on Saturday the 3rd of April. Our team is excited to interact with ARK.io and benefit from their experience. We look forward to sharing a productive hackathon with our local blockchain community. About ARK.io ARK.io ecosystem aims to interconnect blockchains through what is called the ARK.io Smartbridge. ARK.io uses delegated-proof-of-stake as its protocol in which 51 nominated delegates are tasked with running the network. Delegates distribute dividends to those who voted for them in exchange for their support. ARK looks to connect blockchains by tweaking the code to become compatible with their own network. Once connected the protocol makes it possible to communicate and trigger functions on a completely different blockchain. About SonoCoin SonoCoin is a digitally encrypted audio file that operates on a proprietary blockchain system, using the Proof-of-Stake (PoS) protocol to verify transactions. The SonoCoin audio file is a sound interpretation of a code that can be recognized and recorded by any device that reproduces sound. The SonoCoin solution is similar to Bitcoin’s peer-to-peer value transfer, with an improved and more user-friendly platform similar to PayPal. To reduce the cost for end-users, the service has been streamlined to a less complex lighter protocol. Operations and interfaces use a light version of the blockchain network, allowing for a decentralized operation with faster transactions. The framework also provides transaction flexibility across various popular peer-to-peer messaging platforms, social networks, and email.</summary></entry><entry xml:lang="fr"><title type="html">Pitchez vos projets sur la durabilité au stand BNP Paribas &amp;amp; Amaris</title><link href="http://localhost:4001/pitch_session_bnpparibas_fr" rel="alternate" type="text/html" title="Pitchez vos projets sur la durabilité au stand BNP Paribas &amp; Amaris" /><published>2018-04-08T00:00:00+02:00</published><updated>2018-04-08T00:00:00+02:00</updated><id>http://localhost:4001/pitch_session_bnpparibas_fr</id><content type="html" xml:base="http://localhost:4001/pitch_session_bnpparibas_fr">&lt;p&gt;Vous avez un projet sur les thèmes suivants:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;You would you like to participate to a hackathon, yet you have no clear project in mind ?&lt;/li&gt;
-  &lt;li&gt;You want to propose a project at an established hackathon ?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Les services 4.0&lt;/em&gt;&lt;/strong&gt; (repenser le tertiaire durable dans le cadre de l’innovation et le digital)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Mon entreprise dans la ville, quel impact sociétal et durable?&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Mon action dans le changement durable?&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Please contact directly the organizers of  &lt;a href=&quot;/organisation/2017/04/12/hackathons.html&quot;&gt; the hackathon of your choice &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+Venez pitcher sur le &lt;strong&gt;stand BNP Paribas le dimanche 15 avril&lt;/strong&gt;. Des sessions de 5 minutes sont organisées &lt;strong&gt;de 14h30 à 15h30 au &lt;a href=&quot;/hackshow&quot;&gt;HACKSHOW&lt;/a&gt;&lt;/strong&gt; avec des experts et coachs en innovation de BNP Paribas et Amaris.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h4&gt;2. Organize a hackathon** (deadline 30th april 2017) :&lt;/h4&gt;
-
-&lt;p&gt;You want to organize your own hackathon, because you don’t find &lt;a href=&quot;/organisation/2017/04/12/hackathons.html&quot;&gt;one that makes sense to you?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Please contact the Open Geneva Hackathons Organizers : &lt;a href=&quot;mailto:hello@opengeneva.org&quot;&gt;hello@opengeneva.org&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4&gt;3. You are just curious of results achieved during the hackathons :&lt;/h4&gt;
-
-&lt;p&gt;You just want to get inspired by the work achieved over the week-end ? Please join us for the final oral and poster presentations and take part to the cocktail and networking event.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Register here for the final event on May 14th from 4pm until 7pm &lt;a href=&quot;https://www.unige.ch/presse/plans/cmu-2/&quot; target=&quot;_blank&quot;&gt;@ Campus Biotech &lt;/a&gt;):&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/open-geneva-hackathons-tickets-33669345920&quot; class=&quot;button style1&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/register_eventbrite_eng.png&quot; alt=&quot;register&quot; style=&quot;width:200px; text-align:center&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">[ English below ] [ Français ] Il y a 3 manières de participer aux Open Geneva Hackathons: 1. Hacker : Vous voulez participer à un hackathon, mais vous n’avez pas projet? Vous voulez proposer un projet à un hackathons? Contactez directement les organisateurs du hackathon de votre choix 2. Organiser un Hackathon (deadline 30 avril 2017) : Vous voulez organiser votre propre hackathon, car vous ne trouvez pas le hackathon qui vous convient? Contactez les organisateurs des Open Geneva Hackathons : hello@opengeneva.org 3. Vous êtes simplement curieux de voir les résultats des hackathons : Venez chercher l’inspiration à la présentation finale et rencontrer des gens? Prenez part au cocktail et networking au Campus Biotech le 14 mai de 16h à 19h. S’inscrire pour l’événement final (14 mai 2017, 16h-19h @ Campus Biotech ) :</summary></entry><entry><title type="html">agenda / schedule</title><link href="http://localhost:4001/organisation/2017/04/12/agenda.html" rel="alternate" type="text/html" title="agenda / schedule" /><published>2017-04-12T17:06:26+02:00</published><updated>2017-04-12T17:06:26+02:00</updated><id>http://localhost:4001/organisation/2017/04/12/agenda</id><content type="html" xml:base="http://localhost:4001/organisation/2017/04/12/agenda.html">&lt;p&gt;&lt;strong&gt;Déroulement des Open Geneva Hackathons :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Mardi 9 mai (17h30 - 19h) &lt;a href=&quot;https://geneva.impacthub.net/&quot; target=&quot;_blank&quot;&gt;@ Impact Hub Geneva (sur invitation)&lt;/a&gt;&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Conférence de presse  : Open Geneva Hackathons &amp;amp; SCHK@hp&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Jeudi 11 mai &lt;a href=&quot;https://www.unige.ch/presse/plans/uni-mail-uni-pignon/&quot; target=&quot;_blank&quot;&gt;@ Uni Mail &lt;/a&gt;&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;12h15 - 17h45 :&lt;/strong&gt; &lt;a href=&quot;http://www.unige.ch/rdvens&quot; target=&quot;_blank&quot;&gt;Innover dans l’enseignement universitaire grâce aux ressources libres&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;17h45 - 18h30 :&lt;/strong&gt; Lecture publique &lt;em&gt;“The Power of Open”&lt;/em&gt; (en anglais)&lt;br /&gt; par &lt;a href=&quot;http://rufuspollock.com/about/&quot; target=&quot;_blank&quot;&gt;Rufus Pollock&lt;/a&gt;, Fondateur et Président de Open Knowledge&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Vendredi 12 et Samedi 13 mai &lt;a href=&quot;/organisation/2017/04/12/hackathons.html&quot;&gt;@ dans toute la Cité&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;les hackathons organisés se déroulent dans toute la ville: Hôpitaux Universitaires Genève, IdeaSquqre / CERN, Campus Biotech, Centre Universitaire Informatique, Campus Battelle, Carouge, Impact Hub, etc. &lt;a href=&quot;/organisation/2017/04/12/hackathons.html&quot;&gt;[voir carte / see map]&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Dimanche 14 mai &lt;a href=&quot;https://www.unige.ch/presse/plans/cmu-2/&quot; target=&quot;_blank&quot;&gt;@ Campus Biotech &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;Préparation des présentations (présentations orales &amp;amp; posters)&lt;/strong&gt;&lt;/p&gt;
-
-        &lt;ul&gt;
-          &lt;li&gt;&lt;strong&gt;13h00 - 15h00 :&lt;/strong&gt; Coaching pour les presentations orales&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;strong&gt;Présentation publique&lt;/strong&gt;&lt;/p&gt;
-
-        &lt;ul&gt;
-          &lt;li&gt;
-            &lt;p&gt;&lt;strong&gt;15h00 :&lt;/strong&gt; ouverture des portes à Campus Biotech - présentation de posters&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-            &lt;p&gt;&lt;strong&gt;16h00 à 16h20 :&lt;/strong&gt; The Power of Open par Rufus Pollock, Fondateur et Président de Open Knowledge (&lt;a href=&quot;http://rufuspollock.com/about/&quot;&gt;http://rufuspollock.com/about/&lt;/a&gt;)&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-            &lt;p&gt;&lt;strong&gt;16h30 à 17h30 :&lt;/strong&gt; présentations de projets (‘pitch’ de 3 minutes, 1-2 projets choisis par les organisateurs de chaque hackathon).&lt;/p&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-            &lt;p&gt;&lt;strong&gt;17h30 :&lt;/strong&gt; cocktail, posters et networking&lt;/p&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-
-        &lt;p&gt;&lt;strong&gt;S’inscrire pour l’événement final (14 mai 2017, 16h-19h &lt;a href=&quot;https://www.unige.ch/presse/plans/cmu-2/&quot; target=&quot;_blank&quot;&gt;@ Campus Biotech &lt;/a&gt;) :&lt;/strong&gt;&lt;/p&gt;
-
-        &lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/open-geneva-hackathons-tickets-33669345920&quot; class=&quot;button style1&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/register_eventbrite_eng.png&quot; alt=&quot;register&quot; style=&quot;width:200px; align:center&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Déroulement des Open Geneva Hackathons : Mardi 9 mai (17h30 - 19h) @ Impact Hub Geneva (sur invitation) Conférence de presse : Open Geneva Hackathons &amp;amp; SCHK@hp Jeudi 11 mai @ Uni Mail 12h15 - 17h45 : Innover dans l’enseignement universitaire grâce aux ressources libres 17h45 - 18h30 : Lecture publique “The Power of Open” (en anglais) par Rufus Pollock, Fondateur et Président de Open Knowledge Vendredi 12 et Samedi 13 mai @ dans toute la Cité les hackathons organisés se déroulent dans toute la ville: Hôpitaux Universitaires Genève, IdeaSquqre / CERN, Campus Biotech, Centre Universitaire Informatique, Campus Battelle, Carouge, Impact Hub, etc. [voir carte / see map] Dimanche 14 mai @ Campus Biotech Préparation des présentations (présentations orales &amp;amp; posters) 13h00 - 15h00 : Coaching pour les presentations orales Présentation publique 15h00 : ouverture des portes à Campus Biotech - présentation de posters 16h00 à 16h20 : The Power of Open par Rufus Pollock, Fondateur et Président de Open Knowledge (http://rufuspollock.com/about/) 16h30 à 17h30 : présentations de projets (‘pitch’ de 3 minutes, 1-2 projets choisis par les organisateurs de chaque hackathon). 17h30 : cocktail, posters et networking S’inscrire pour l’événement final (14 mai 2017, 16h-19h @ Campus Biotech ) :</summary></entry><entry><title type="html">hackathons | 12-14 mai 2017</title><link href="http://localhost:4001/organisation/2017/04/12/hackathons.html" rel="alternate" type="text/html" title="hackathons | 12-14 mai 2017" /><published>2017-04-12T14:06:26+02:00</published><updated>2017-04-12T14:06:26+02:00</updated><id>http://localhost:4001/organisation/2017/04/12/hackathons</id><content type="html" xml:base="http://localhost:4001/organisation/2017/04/12/hackathons.html">&lt;h3&gt;
-
-  
-  &lt;a id=&quot;1&quot; href=&quot;http://www.hug-ge.ch/hackathon&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/hug.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://www.hug-ge.ch/hackathon&quot; target=&quot;_blank&quot;&gt;Hackathon des HUG&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 12-13 mai&lt;br /&gt;
-Lieu : Centre de l’innovation des HUG&lt;br /&gt;
-Adresse : HUG Bâtiment Gustave Julliard, Rue Alcide-Jentzer 17, 1211 Genève&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Contact : &lt;a href=&quot;mailto: Centre.Innovation@hcuge.ch&quot;&gt; Centre.Innovation@hcuge.ch&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@Hopitaux_unige&quot; target=&quot;_blank&quot;&gt;@Hopitaux_unige&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/hug_hack.png&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;2&quot; href=&quot;http://www.smartcityday.ch/smart-city-hack.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/schk.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://www.smartcityday.ch/smart-city-hack.html&quot; target=&quot;_blank&quot;&gt;Smart City Hack @HP (SCHK'17)&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 12-13 mai&lt;br /&gt;
-Lieu : Hewlett Packard Enterprise&lt;br /&gt;
-Adresse : Route du Nant d’Avril 150, Meyrin, Switzerland 1217&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Contact : &lt;a href=&quot;mailto: event@innobridge.com&quot;&gt; event@innobridge.com&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@SmartCityDay&quot; target=&quot;_blank&quot;&gt;@SmartCityDay&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/schk.jpg&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;3&quot; href=&quot;http://wiki.opengeneva.org/index.php/Beyond_the_glass_ceiling_:_Gender_Equality_pre-Hackathon&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/cb.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Beyond_the_glass_ceiling_:_Gender_Equality_pre-Hackathon&quot; target=&quot;_blank&quot;&gt;Gender Equality Pre-Hack&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 12 mai&lt;br /&gt;
-Lieu : Campus Biotech&lt;br /&gt;
-Adresse : Chemin des Mines 9, 1202 Genève&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Contact : &lt;a href=&quot;mailto: kerstin.preuschoff@unige.ch&quot;&gt; kerstin.preuschoff@unige.ch&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Beyond_the_glass_ceiling_:_Gender_Equality_pre-Hackathon&quot; target=&quot;_blank&quot;&gt;wiki page&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;4&quot; href=&quot;http://wiki.opengeneva.org/index.php/Bioscope_Bioblitz&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/bioscope.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Bioscope_Bioblitz&quot; target=&quot;_blank&quot;&gt;Bioblitz - Le numérique au service de la biodiversité? &lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 12 mai 12h-14h&lt;br /&gt;
-Lieu : Musée de l’Histoire des Sciences&lt;br /&gt;
-Adresse : Avenue de Sécheron 15, 1202 Genève&lt;br /&gt;
- Salle : sur le perron&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: Candice.Yvon@unige.ch&quot;&gt; Candice.Yvon@unige.ch&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@CitizenSciences&quot; target=&quot;_blank&quot;&gt;@CitizenSciences&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Bioscope_Bioblitz&quot; target=&quot;_blank&quot;&gt;wiki page&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;5&quot; href=&quot;http://make.opendata.ch/wiki/glam:2017-05&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/genevaopenlibraries.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://make.opendata.ch/wiki/glam:2017-05&quot; target=&quot;_blank&quot;&gt;Geneva Open Libraries&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 12-13 mai&lt;br /&gt;
-Lieu : Palais des Nations (12 mai) / Campus Biotech Innovation Park (13 mai)&lt;br /&gt;
-Adresse : Avenue de la Paix 14 (12 mai) / Avenue de Sécheron 15 (13 mai)&lt;br /&gt;
- Salle : Maker Space (13 mai)&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: Radu.Suciu@unige.ch&quot;&gt; Radu.Suciu@unige.ch&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@bodmerlab&quot; target=&quot;_blank&quot;&gt;@bodmerlab&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/faust.png&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;6&quot; href=&quot;https://www.sib.swiss/events/ogh-sib2017/#track1&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/sib.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;https://www.sib.swiss/events/ogh-sib2017/#track1&quot; target=&quot;_blank&quot;&gt;Scratch programming for kids and their parents&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 13 mai, 13h30-18h00&lt;br /&gt;
-Lieu : Campus Biotech Innovation Park&lt;br /&gt;
-Adresse : Avenue de Sécheron 15, 1202 Genève&lt;br /&gt;
- Salle : salle Orion (2ème étage)&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: events@sib.swiss&quot;&gt; events@sib.swiss&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@ISBSIB&quot; target=&quot;_blank&quot;&gt;@ISBSIB&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/scratch-block.jpg&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;7&quot; href=&quot;https://www.sib.swiss/events/ogh-sib2017/#track2&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/sib.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;https://www.sib.swiss/events/ogh-sib2017/#track2&quot; target=&quot;_blank&quot;&gt;3D/Virtual Reality for Bioinformatics&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 13 mai, 8h30 - 18:30&lt;br /&gt;
-Lieu : Campus Biotech Innovation Park&lt;br /&gt;
-Adresse : Avenue de Sécheron 15, 1202 Genève&lt;br /&gt;
- Salle : salle Orion (2ème étage)&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: events@sib.swiss&quot;&gt; events@sib.swiss&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@ISBSIB&quot; target=&quot;_blank&quot;&gt;@ISBSIB&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/protein3d.png&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;8&quot; href=&quot;https://www.eventbrite.fr/e/billets-mapathon-missing-maps-universite-geneve-33987195617&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/missingmaps.jpg&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;https://www.eventbrite.fr/e/billets-mapathon-missing-maps-universite-geneve-33987195617&quot; target=&quot;_blank&quot;&gt;Mapathon Missing Maps @ Université Genève &lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 3 mai, 18:30-21:30&lt;br /&gt;
-Lieu : Université de Genève - Uni Mail&lt;br /&gt;
-Adresse : Boulevard du Pont-d’Arve 40, 1204 Genève&lt;br /&gt;
- Salle : Salle MS050&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: &quot;&gt; &lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@assocCartONG&quot; target=&quot;_blank&quot;&gt;@assocCartONG&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/missing_maps.jpg&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;9&quot; href=&quot;http://wiki.opengeneva.org/index.php/OpenSexEd_-_a_collaborative_video_series&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/bioscope.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://wiki.opengeneva.org/index.php/OpenSexEd_-_a_collaborative_video_series&quot; target=&quot;_blank&quot;&gt;Bioscope OpenSexEd&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 12 mai, 9h00 - 19h00&lt;br /&gt;
-Lieu : Campus Biotech Innovation Park&lt;br /&gt;
-Adresse : Avenue de Sécheron 15, 1202 Genève&lt;br /&gt;
- Salle : tba&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: Celine.Brockmann@unige.ch&quot;&gt; Celine.Brockmann@unige.ch&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@bioscopelab&quot; target=&quot;_blank&quot;&gt;@bioscopelab&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;http://wiki.opengeneva.org/index.php/OpenSexEd_-_a_collaborative_video_series&quot; target=&quot;_blank&quot;&gt;wiki page&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;10&quot; href=&quot;http://wiki.opengeneva.org/index.php/Accessible_Geneva!&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/beltcompass.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Accessible_Geneva!&quot; target=&quot;_blank&quot;&gt;Accessible Geneva !&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 12 - 13 mai&lt;br /&gt;
-Lieu : Campus Biotech Innovation Park&lt;br /&gt;
-Adresse : Avenue de Sécheron 15, 1202 Genève&lt;br /&gt;
- Salle : lobby&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: joseluis.fernandez@unige.ch&quot;&gt; joseluis.fernandez@unige.ch&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/teambeltcompass.jpg&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Accessible_Geneva!&quot; target=&quot;_blank&quot;&gt;wiki page&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;12&quot; href=&quot;http://citizensciences.net/biofabbing/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/bioscope.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://citizensciences.net/biofabbing/&quot; target=&quot;_blank&quot;&gt;BioFabbing&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 12 mai, 10h00 - 14h00&lt;br /&gt;
-Lieu : Campus Biotech Innovation Park&lt;br /&gt;
-Adresse : Avenue de Sécheron 15, 1202 Genève&lt;br /&gt;
- Salle : Maker Space (entresol)&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: gabriela.sanchez@unige.ch&quot;&gt; gabriela.sanchez@unige.ch&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@CitizenSciences&quot; target=&quot;_blank&quot;&gt;@CitizenSciences&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/biofabbing.png&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;13&quot; href=&quot;http://wiki.opengeneva.org/index.php/After_Hack_Hackathon&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/GTI-logo.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://wiki.opengeneva.org/index.php/After_Hack_Hackathon&quot; target=&quot;_blank&quot;&gt;After Hack Hackathon&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 12 mai, 13h30 - 17h00&lt;br /&gt;
-Lieu : Campus Biotech Innovation Park&lt;br /&gt;
-Adresse : Avenue de Sécheron 15, 1202 Genève&lt;br /&gt;
- Salle : tba&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: susana.perdiz@unige.ch&quot;&gt; susana.perdiz@unige.ch&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@opengeneva&quot; target=&quot;_blank&quot;&gt;@opengeneva&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;http://wiki.opengeneva.org/index.php/After_Hack_Hackathon&quot; target=&quot;_blank&quot;&gt;wiki page&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;14&quot; href=&quot;https://jhmorin.wixsite.com/faclabbattelleoghack&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/cui_pant.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;https://jhmorin.wixsite.com/faclabbattelleoghack&quot; target=&quot;_blank&quot;&gt;Prototypage de Politiques du Numérique&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 12  mai, 8h30 - 18h00&lt;br /&gt;
-Lieu : Centre Universitaire Informatique Campus Battelle&lt;br /&gt;
-Adresse : Route de Drize 7, 1227 Carouge, Switzerland&lt;br /&gt;
- Salle : lobby&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: Jean-Henry.Morin@unige.ch&quot;&gt; Jean-Henry.Morin@unige.ch&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@Fac_Lab&quot; target=&quot;_blank&quot;&gt;@Fac_Lab&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/politiquenumerique.png&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Prototypage_de_Politiques_du_Num%C3%A9rique&quot; target=&quot;_blank&quot;&gt;wiki page&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Geneva_green_crypto-currency_Hackathon&quot; target=&quot;_blank&quot;&gt;Geneva Green Crypto-Currency Hackathon&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : tba&lt;br /&gt;
-Lieu : Centre Universitaire Informatique Campus Battelle&lt;br /&gt;
-Adresse : Route de Drize 7, 1227 Carouge, Switzerland&lt;br /&gt;
- Salle : lobby&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: vmanuceau@gmail.com&quot;&gt; vmanuceau@gmail.com&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Geneva_green_crypto-currency_Hackathon&quot; target=&quot;_blank&quot;&gt;wiki page&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;16&quot; href=&quot;http://wiki.opengeneva.org/index.php/Education_21_-_Necessary_evolution_of_the_education_systems_to_integrate_the_digital_worlds&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/cui_pant.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Education_21_-_Necessary_evolution_of_the_education_systems_to_integrate_the_digital_worlds&quot; target=&quot;_blank&quot;&gt;Education-21 - L’évolution nécessaire des systèmes éducatifs pour intégrer les mondes numériques&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 12 - 13 mai&lt;br /&gt;
-Lieu : Centre Universitaire Informatique Campus Battelle&lt;br /&gt;
-Adresse : Route de Drize 7, 1227 Carouge, Switzerland&lt;br /&gt;
- Salle : Living Lab&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: koenigphh@gmail.com&quot;&gt; koenigphh@gmail.com&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/g4.png&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Education_21_-_Necessary_evolution_of_the_education_systems_to_integrate_the_digital_worlds&quot; target=&quot;_blank&quot;&gt;wiki page&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;17&quot; href=&quot;http://wiki.opengeneva.org/index.php/Human_Digital_Rights_%26_Responsibilities&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/cui_pant.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Human_Digital_Rights_%26_Responsibilities&quot; target=&quot;_blank&quot;&gt;Droits et Responsabilités Humains dans le monde Numérique&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 12 - 13 mai&lt;br /&gt;
-Lieu : Centre Universitaire Informatique Campus Battelle&lt;br /&gt;
-Adresse : Route de Drize 7, 1227 Carouge, Switzerland&lt;br /&gt;
- Salle : Living Lab&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: raymond.morel@gmail.com &quot;&gt; raymond.morel@gmail.com &lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/socialIn3.png&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Human_Digital_Rights_%26_Responsibilities&quot; target=&quot;_blank&quot;&gt;wiki page&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;18&quot; href=&quot;https://jhmorin.wixsite.com/faclab-datahack&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/cui_pant.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;https://jhmorin.wixsite.com/faclab-datahack&quot; target=&quot;_blank&quot;&gt;DataHack : Mais au fait, qui a mes données ?&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 12 mai&lt;br /&gt;
-Lieu : Centre Universitaire Informatique Campus Battelle&lt;br /&gt;
-Adresse : Route de Drize 7, 1227 Carouge, Switzerland&lt;br /&gt;
- Salle : Lobby&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: Paulolivier@gmail.com&quot;&gt; Paulolivier@gmail.com&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@podehaye&quot; target=&quot;_blank&quot;&gt;@podehaye&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/PersonalDataIo.jpg&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;19&quot; href=&quot;http://wiki.opengeneva.org/index.php/BrainSqueeze:_Embedding_the_SDGs_into_humanitarian_practice&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/ghl.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://wiki.opengeneva.org/index.php/BrainSqueeze:_Embedding_the_SDGs_into_humanitarian_practice&quot; target=&quot;_blank&quot;&gt;BrainSqueeze: Embedding the SDGs into humanitarian practice&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : 13 mai&lt;br /&gt;
-Lieu : Campus Biotech Innnovation Park&lt;br /&gt;
-Adresse : Avenue de Sécheron 15, 1202 Genève&lt;br /&gt;
- Salle : Maker Space&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto:  adriana@globalhumanitarianlab.org&quot;&gt;  adriana@globalhumanitarianlab.org&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@humanitarianlab&quot; target=&quot;_blank&quot;&gt;@humanitarianlab&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/brainsqueeze.jpg&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;http://wiki.opengeneva.org/index.php/BrainSqueeze:_Embedding_the_SDGs_into_humanitarian_practice&quot; target=&quot;_blank&quot;&gt;wiki page&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;20&quot; href=&quot;http://www.socialup.ch&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/hospicegeneral.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://www.socialup.ch&quot; target=&quot;_blank&quot;&gt;SocialUp After hack&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : Samedi 13 mai, 9h30 – 18h00&lt;br /&gt;
-Lieu : Hospice Général&lt;br /&gt;
-Adresse : Cours de Rive 12, 1204 Genève&lt;br /&gt;
- Salle : 4ème étage (téléphone 078 624 22 38 / pas de code à l’entrée)&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: cecile.catalano@hospicegeneral.ch&quot;&gt; cecile.catalano@hospicegeneral.ch&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/@SocialupGeneve&quot; target=&quot;_blank&quot;&gt;@SocialupGeneve&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/hackathons/SocialUp.jpg&quot; width=&quot;300&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Hospice_G%C3%A9n%C3%A9ral,_SocialUp_After_Hack&quot; target=&quot;_blank&quot;&gt;wiki page&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3&gt;
-
-  
-  &lt;a id=&quot;21&quot; href=&quot;http://wiki.opengeneva.org/index.php/Smart_Campus_Hackathon&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/partners/cui_pant.png&quot; height=&quot;60&quot; alt=&quot;&quot; class=&quot;imgspace&quot; /&gt;&lt;/a&gt;
-  
-&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Smart_Campus_Hackathon&quot; target=&quot;_blank&quot;&gt;Smart Campus&lt;/a&gt;
-&lt;/h3&gt;
-
-&lt;p&gt;Date : Samedi 13 mai, 8h30 – 18h00&lt;br /&gt;
-Lieu : Centre Universitaire Informatique Campus Battelle&lt;br /&gt;
-Adresse : Route de Drize 7, 1227 Carouge, Switzerland&lt;br /&gt;
- Salle : lobby&lt;br /&gt;
-Contact : &lt;a href=&quot;mailto: Vincenzo.Daponte@unige.ch&quot;&gt; Vincenzo.Daponte@unige.ch&lt;/a&gt;&lt;br /&gt;
-Twitter : &lt;a href=&quot;https://twitter.com/#smartcampus&quot; target=&quot;_blank&quot;&gt;#smartcampus&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4&gt;&lt;a href=&quot;http://wiki.opengeneva.org/index.php/Smart_Campus_Hackathon&quot; target=&quot;_blank&quot;&gt;wiki page&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Hackathon des HUG Date : 12-13 mai Lieu : Centre de l’innovation des HUG Adresse : HUG Bâtiment Gustave Julliard, Rue Alcide-Jentzer 17, 1211 Genève Contact : Centre.Innovation@hcuge.ch Twitter : @Hopitaux_unige Smart City Hack @HP (SCHK'17) Date : 12-13 mai Lieu : Hewlett Packard Enterprise Adresse : Route du Nant d’Avril 150, Meyrin, Switzerland 1217 Contact : event@innobridge.com Twitter : @SmartCityDay Gender Equality Pre-Hack Date : 12 mai Lieu : Campus Biotech Adresse : Chemin des Mines 9, 1202 Genève Contact : kerstin.preuschoff@unige.ch Twitter : wiki page Bioblitz - Le numérique au service de la biodiversité? Date : 12 mai 12h-14h Lieu : Musée de l’Histoire des Sciences Adresse : Avenue de Sécheron 15, 1202 Genève Salle : sur le perron Contact : Candice.Yvon@unige.ch Twitter : @CitizenSciences wiki page Geneva Open Libraries Date : 12-13 mai Lieu : Palais des Nations (12 mai) / Campus Biotech Innovation Park (13 mai) Adresse : Avenue de la Paix 14 (12 mai) / Avenue de Sécheron 15 (13 mai) Salle : Maker Space (13 mai) Contact : Radu.Suciu@unige.ch Twitter : @bodmerlab Scratch programming for kids and their parents Date : 13 mai, 13h30-18h00 Lieu : Campus Biotech Innovation Park Adresse : Avenue de Sécheron 15, 1202 Genève Salle : salle Orion (2ème étage) Contact : events@sib.swiss Twitter : @ISBSIB 3D/Virtual Reality for Bioinformatics Date : 13 mai, 8h30 - 18:30 Lieu : Campus Biotech Innovation Park Adresse : Avenue de Sécheron 15, 1202 Genève Salle : salle Orion (2ème étage) Contact : events@sib.swiss Twitter : @ISBSIB Mapathon Missing Maps @ Université Genève Date : 3 mai, 18:30-21:30 Lieu : Université de Genève - Uni Mail Adresse : Boulevard du Pont-d’Arve 40, 1204 Genève Salle : Salle MS050 Contact : Twitter : @assocCartONG Bioscope OpenSexEd Date : 12 mai, 9h00 - 19h00 Lieu : Campus Biotech Innovation Park Adresse : Avenue de Sécheron 15, 1202 Genève Salle : tba Contact : Celine.Brockmann@unige.ch Twitter : @bioscopelab wiki page Accessible Geneva ! Date : 12 - 13 mai Lieu : Campus Biotech Innovation Park Adresse : Avenue de Sécheron 15, 1202 Genève Salle : lobby Contact : joseluis.fernandez@unige.ch Twitter : wiki page BioFabbing Date : 12 mai, 10h00 - 14h00 Lieu : Campus Biotech Innovation Park Adresse : Avenue de Sécheron 15, 1202 Genève Salle : Maker Space (entresol) Contact : gabriela.sanchez@unige.ch Twitter : @CitizenSciences After Hack Hackathon Date : 12 mai, 13h30 - 17h00 Lieu : Campus Biotech Innovation Park Adresse : Avenue de Sécheron 15, 1202 Genève Salle : tba Contact : susana.perdiz@unige.ch Twitter : @opengeneva wiki page Prototypage de Politiques du Numérique Date : 12 mai, 8h30 - 18h00 Lieu : Centre Universitaire Informatique Campus Battelle Adresse : Route de Drize 7, 1227 Carouge, Switzerland Salle : lobby Contact : Jean-Henry.Morin@unige.ch Twitter : @Fac_Lab wiki page Geneva Green Crypto-Currency Hackathon Date : tba Lieu : Centre Universitaire Informatique Campus Battelle Adresse : Route de Drize 7, 1227 Carouge, Switzerland Salle : lobby Contact : vmanuceau@gmail.com Twitter : wiki page Education-21 - L’évolution nécessaire des systèmes éducatifs pour intégrer les mondes numériques Date : 12 - 13 mai Lieu : Centre Universitaire Informatique Campus Battelle Adresse : Route de Drize 7, 1227 Carouge, Switzerland Salle : Living Lab Contact : koenigphh@gmail.com Twitter : wiki page Droits et Responsabilités Humains dans le monde Numérique Date : 12 - 13 mai Lieu : Centre Universitaire Informatique Campus Battelle Adresse : Route de Drize 7, 1227 Carouge, Switzerland Salle : Living Lab Contact : raymond.morel@gmail.com Twitter : wiki page DataHack : Mais au fait, qui a mes données ? Date : 12 mai Lieu : Centre Universitaire Informatique Campus Battelle Adresse : Route de Drize 7, 1227 Carouge, Switzerland Salle : Lobby Contact : Paulolivier@gmail.com Twitter : @podehaye BrainSqueeze: Embedding the SDGs into humanitarian practice Date : 13 mai Lieu : Campus Biotech Innnovation Park Adresse : Avenue de Sécheron 15, 1202 Genève Salle : Maker Space Contact : adriana@globalhumanitarianlab.org Twitter : @humanitarianlab wiki page SocialUp After hack Date : Samedi 13 mai, 9h30 – 18h00 Lieu : Hospice Général Adresse : Cours de Rive 12, 1204 Genève Salle : 4ème étage (téléphone 078 624 22 38 / pas de code à l’entrée) Contact : cecile.catalano@hospicegeneral.ch Twitter : @SocialupGeneve wiki page Smart Campus Date : Samedi 13 mai, 8h30 – 18h00 Lieu : Centre Universitaire Informatique Campus Battelle Adresse : Route de Drize 7, 1227 Carouge, Switzerland Salle : lobby Contact : Vincenzo.Daponte@unige.ch Twitter : #smartcampus wiki page</summary></entry><entry><title type="html">une vue de HP Enterprise / a view by HP Enterprise</title><link href="http://localhost:4001/news/2017/04/10/mirlesse.html" rel="alternate" type="text/html" title="une vue de HP Enterprise / a view by HP Enterprise" /><published>2017-04-10T15:06:26+02:00</published><updated>2017-04-10T15:06:26+02:00</updated><id>http://localhost:4001/news/2017/04/10/mirlesse</id><content type="html" xml:base="http://localhost:4001/news/2017/04/10/mirlesse.html">&lt;p&gt;&lt;img src=&quot;/images/mirlesse.png&quot; alt=&quot;Pierre Mirlesse&quot; title=&quot;Testimony Mirlesse&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;&lt;em&gt;Etre la banque d’un monde qui change, c’est accompagner toujours mieux nos clients, nos partenaires et nos équipes tout en contribuant à une croissance plus durable et mieux partagée. Ce qui signifie aussi pour nous à Genève, s’inscrire dans notre écosystème local en contribuant à l’amélioration de l’environnement urbain, social et culturel. Participer activement à Open Geneva c’est incarner concrètement cette stratégie d’entreprise engagée.&lt;/em&gt; a commenté Isabelle Jacob-Nebout, Responsable Innovation &amp;amp; Développement pour BNP Paribas (Suisse) SA.&lt;/p&gt;</content><author><name></name></author><summary type="html">Vous avez un projet sur les thèmes suivants: Les services 4.0 (repenser le tertiaire durable dans le cadre de l’innovation et le digital) Mon entreprise dans la ville, quel impact sociétal et durable? Mon action dans le changement durable? Venez pitcher sur le stand BNP Paribas le dimanche 15 avril. Des sessions de 5 minutes sont organisées de 14h30 à 15h30 au HACKSHOW avec des experts et coachs en innovation de BNP Paribas et Amaris. Etre la banque d’un monde qui change, c’est accompagner toujours mieux nos clients, nos partenaires et nos équipes tout en contribuant à une croissance plus durable et mieux partagée. Ce qui signifie aussi pour nous à Genève, s’inscrire dans notre écosystème local en contribuant à l’amélioration de l’environnement urbain, social et culturel. Participer activement à Open Geneva c’est incarner concrètement cette stratégie d’entreprise engagée. a commenté Isabelle Jacob-Nebout, Responsable Innovation &amp;amp; Développement pour BNP Paribas (Suisse) SA.</summary></entry></feed>

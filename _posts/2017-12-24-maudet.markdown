@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Address by Pierre Maudet"
+date:   2017-12-24 00:00:00 +0200
+categories: news
+lang: en
+published: false
+---
+
+#### State Councillor in charge of the Department of security and economy, <br> Republic and State of Geneva
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/skUuy7sSZec" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

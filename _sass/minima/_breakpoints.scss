@@ -1,0 +1,21 @@
+// Breakpoints
+$mobile: 400px;
+$tablet: 768px;
+$desktop-small: 920px;
+$desktop: 1024px;
+$wide: 1440px;
+$extra-wide: 1920px;
+
+// Javascript Breakpoints
+html:before {
+  content: "mobile";
+  display: none; /* Prevent from displaying. */
+
+  @include media-query($tablet) {
+    content: "tablet";
+  }
+
+  @include media-query($desktop) {
+    content: "desktop";
+  }
+}

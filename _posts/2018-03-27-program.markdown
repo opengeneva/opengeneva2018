@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Open Geneva Program"
+date:   2018-03-27 00:00:00 +0200
+categories: news
+lang: en
+permalink:
+published: true
+---
+
+Open Geneva offers 35+ events to innovate together, enjoy, and challenge yourself, from 9th until 15th April 2018
+
+During 6 days, hundreds of participants, with a variety of cultural and expertise backgrounds, will work together to imagine, design and produce innovative solutions to outstanding challenges.
+
+Medtech, hospital innovation, smart cities, social innovation, Earth observiation, humanitarian innovation, digital humanities, are a few examples of scientific, technical, and social innovation topics. Hackathons, workshops, open doors et conferences: the Open Innovation festival in Geneva features collective intelligence, knowledge sharing, and creativity in a fun and entertaining atmosphere.
+
+<strong>The full program is available at [opengeneva.org/program]({{ site.baseurl }}/program)</strong>
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/P5yvNJGwFKg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

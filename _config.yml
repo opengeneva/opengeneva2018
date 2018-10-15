@@ -21,6 +21,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://opengeneva.org" # the base hostname & protocol for your site
 twitter_username: opengeneva
 github_username:  opengeneva
+linkedin_username: opengeneva
+youtube_username: opengeneva
+facebook_username: opengeneva
 port : 4001
 
 site.google_analytics : UA-114211038-1
@@ -35,3 +38,121 @@ exclude:
   - Gemfile.lock
 
 excerpt_separator: <!--more-->
+
+collections:
+  events :
+    output : true
+
+t:
+  en:
+    home:
+      name: "News"
+      url: "/"
+      display : false
+    program :
+      name: "Program"
+      url: "/program/"
+      display : true
+    hackathons:
+      name: "Hackathons"
+      url : "/hackathons/"
+      display : true
+    hackshow :
+      name: "Hackshow"
+      url: "/hackshow/"
+      display : true
+    timeline :
+      name: "Timeline"
+      url: "/timeline/"
+      display : false
+    register:
+      name: "Register"
+      url : "/register/"
+      display : false
+    archive :
+      name : "Archive"
+      url: "/archive/"
+      display : false
+    about:
+      name: "About"
+      url: "/about/"
+      display : true
+    baseline: "<strong>An Open Innovation Festival</strong> <br> for science, technology & society"
+    repost : "original post"
+    main_partners : "Main Partners"
+    acceleration_partners: "Acceleration Partners"
+    academic_partners : "Academic Partners"
+
+  fr:
+    home:
+      name: "Accueil"
+      url: "/accueil/"
+      display : false
+    program :
+      name: "Programme"
+      url: "/program/"
+      display : true
+    hackathons:
+      name: "Hackathons"
+      url : "/hackathons/"
+      display : true
+    hackshow :
+      name: "Hackshow"
+      url: "/hackshow_fr/"
+      display : true
+    timeline :
+      name: "Déroulement"
+      url: "/deroulement/"
+      display : false
+    register:
+      name: "Participer"
+      url : "/participer/"
+      display : false
+    archive:
+      name : "Archives"
+      url : "/archives/"
+      display : false
+    about:
+      name: "À propos"
+      url: "/apropos/"
+      display : true
+    media:
+      name: "Media"
+      url : "/media/"
+      display : false
+    baseline: "<strong>Festival d'Innovation Ouverte</strong> <br>science, technologie & société"
+    repost: "post original"
+    main_partners : "Partenaires Principaux"
+    acceleration_partners: "Partenaires Accélération"
+    academic_partners : "Partneraires Académiques"
+
+  zh:
+     home:
+       name: "Home"
+       url: "/活动进展/"
+       display : false
+     program :
+       name: "Program"
+       url: "/program/"
+       display : false
+     timeline :
+       name: "活动进展"
+       url: "/活动进展/"
+       display : true
+     register:
+       name: "Register"
+       url : "/register/"
+       display : false
+     archive :
+       name : "当年今日"
+       url: "/当年今日/"
+       display : false
+     about:
+       name: "关于我们"
+       url: "/关于我们/"
+       display : true
+     media:
+      name: "Media"
+      url : "/media_fr/"
+      display : false
+     baseline: "<strong>An Open Innovation Festival</strong> <br> for science, technology & society"

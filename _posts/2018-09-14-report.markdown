@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Report Open Geneva 2018"
+date:   2018-09-14 00:00:00 +0200
+categories: news
+lang: en
+published: true
+---
+
+Open Geneva publishes today its strategic report, which summarises the highlights of the 2018
+edition of the Open Innovation Festival in Geneva. The report also outlines the strategic directions
+taken for the next edition of the Festival on 18th - 24th March 2019.
+
+A big Thank You to all participants, event organisers, volunteers, and partners. See you in 2019!
+
+**[report currently only in French]**
+
+<a href="{{ site.baseurl }}/images/Rapport_OpenGeneva_2018.pdf" target=""><img src="{{ site.baseurl }}/images/Rapport_OpenGeneva_2018.png" width="60%" alt="" class="imgspace" /></a>
