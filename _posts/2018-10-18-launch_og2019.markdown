@@ -8,4 +8,5 @@ lang: en
 published: true
 ---
 
-<img src="{{ site.baseurl }}/images/logo_opengeneva_title_baseline_eng.png" width="40%" alt="" class="imgspace" />
+
+<img src="{{ site.baseurl }}/images/logo_opengeneva_title_baseline_{{ page.lang }}.png" width="40%" alt="" class="imgspace" />
