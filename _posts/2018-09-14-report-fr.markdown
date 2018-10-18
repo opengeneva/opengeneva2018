@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Rapport Open Geneva 2018"
+title:  "rapport Open Geneva 2018"
 date:   2018-09-14 00:00:00 +0200
-categories: news
+categories: news_og2018
+og : 2019
 lang: fr
 published: true
 ---

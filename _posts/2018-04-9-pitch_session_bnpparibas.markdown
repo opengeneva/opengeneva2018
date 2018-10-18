@@ -2,7 +2,7 @@
 layout: post
 title:  "Pitch your SDG projects at BNP Paribas & Amaris booth"
 date:   2018-04-08 00:00:00 +0200
-categories: news
+categories: news_og2018
 lang: en
 published: true
 permalink : /pitch_session_bnpparibas

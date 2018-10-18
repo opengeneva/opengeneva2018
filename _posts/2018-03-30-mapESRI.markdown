@@ -2,7 +2,7 @@
 layout: post
 title:  "Map of Open Geneva Hackathons by ESRI"
 date:   2018-03-30 00:00:00 +0200
-categories: news
+categories: news_og2018
 lang: en
 permalink: /map/
 published: true

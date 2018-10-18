@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Geneva Acceleration Partnerships"
 date:   2018-03-14 00:00:00 +0200
-categories: news
+categories: news_og2018
 lang: en
 published: true
 permalink: /acceleration/

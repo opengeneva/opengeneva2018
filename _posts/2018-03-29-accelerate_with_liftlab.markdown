@@ -2,7 +2,7 @@
 layout: post
 title:  "Accelerate with Lift:Lab"
 date:   2018-03-29 00:00:00 +0200
-categories: news
+categories: news_og2018
 lang: en
 permalink: /liftlab/
 published: true

@@ -48,19 +48,31 @@ t:
     home:
       name: "News"
       url: "/"
+      display : true
+    participate :
+      name : "Participate"
+      url : "/participate/"
+      display : false
+    hackorg:
+      name: "Organize"
+      url: "/hack_organize/"
+      display : false
+    partners :
+      name : "partners"
+      url : "/partners/"
       display : false
     program :
       name: "Program"
       url: "/program/"
-      display : true
+      display : false
     hackathons:
       name: "Hackathons"
       url : "/hackathons/"
-      display : true
+      display : false
     hackshow :
       name: "Hackshow"
       url: "/hackshow/"
-      display : true
+      display : false
     timeline :
       name: "Timeline"
       url: "/timeline/"
@@ -87,19 +99,31 @@ t:
     home:
       name: "Accueil"
       url: "/accueil/"
+      display : true
+    participate :
+      name : "Participer"
+      url : "/participer/"
+      display : false
+    hackorg:
+      name: "Organiser"
+      url: "/hack_organiser/"
+      display : false
+    partners :
+      name : "Partenaires"
+      url : "/partenaires/"
       display : false
     program :
       name: "Programme"
       url: "/program/"
-      display : true
+      display : false
     hackathons:
       name: "Hackathons"
       url : "/hackathons/"
-      display : true
+      display : false
     hackshow :
       name: "Hackshow"
       url: "/hackshow_fr/"
-      display : true
+      display : false
     timeline :
       name: "Déroulement"
       url: "/deroulement/"

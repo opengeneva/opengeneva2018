@@ -2,7 +2,7 @@
 layout: post
 title:  "Programme Open Geneva"
 date:   2018-03-27 00:00:00 +0200
-categories: news
+categories: news_og2018
 lang: fr
 permalink:
 published: true

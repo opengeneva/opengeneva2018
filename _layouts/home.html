@@ -15,10 +15,9 @@ layout: default
 </strong>
 
 
-
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.lang == page.lang %}
+      {% if post.published and post.lang == page.lang and post.og == 2019 %}
         <br>
         <li>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
