@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "newsletter Open Geneva"
+date:   2018-09-29 00:00:00 +0200
+categories: news
+og : 2019
+lang: fr
+published: true
+---
+
+<a href="https://mailchi.mp/399da5ab722d/open-geneva-newsletter"><img src="{{ site.baseurl }}/images/newsletter.png" width="80%" alt="" class="imgspace" /></a>

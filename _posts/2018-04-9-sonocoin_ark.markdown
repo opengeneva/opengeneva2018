@@ -2,7 +2,7 @@
 layout: post
 title:  "SonoCoin aims to leverage the expertise and motivation of Open Geneva"
 date:   2018-04-08 00:00:00 +0200
-categories: news
+categories: news_og2018
 lang: en
 published: true
 

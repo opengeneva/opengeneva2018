@@ -2,7 +2,7 @@
 layout: post
 title:  "BNP Paribas ouvre son incubateur Colibri à 5 associations "
 date:   2018-04-08 00:00:00 +0200
-categories: news
+categories: news_og2018
 lang: fr
 published: true
 permalink : /incubation_bnpparibas_fr/

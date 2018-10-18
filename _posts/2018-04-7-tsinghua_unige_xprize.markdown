@@ -2,7 +2,7 @@
 layout: post
 title:  "Accelerate in China with Tsinghua-UNIGE x-prize"
 date:   2018-04-07 00:00:00 +0200
-categories: news
+categories: news_og2018
 lang: en
 published: true
 ---

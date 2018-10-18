@@ -2,7 +2,7 @@
 layout: post
 title:  "Pitchez vos projets sur la durabilité au stand BNP Paribas & Amaris"
 date:   2018-04-08 00:00:00 +0200
-categories: news
+categories: news_og2018
 lang: fr
 published: true
 permalink : /pitch_session_bnpparibas_fr

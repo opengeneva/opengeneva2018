@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "meetup Open Geneva"
+date:   2018-09-29 00:00:00 +0200
+categories: news
+og : 2019
+lang: fr
+published: true
+---
+
+
+
+<a href="https://www.meetup.com/fr-FR/Open-Geneva-RDV-dinnovation-ouverte-a-Geneve/events/" target="_blank"><img src="{{ site.baseurl }}/images/meetupOpenGeneva.png" width="40%" alt="" class="imgspace" /></a>

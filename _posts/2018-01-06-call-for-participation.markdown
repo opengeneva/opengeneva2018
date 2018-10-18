@@ -2,7 +2,7 @@
 layout: post
 title:  "Call for Participation"
 date:   2018-01-06 00:00:00 +0200
-categories: news
+categories: news_og2018
 lang: en
 published: false
 ---

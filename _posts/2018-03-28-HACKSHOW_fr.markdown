@@ -2,7 +2,7 @@
 layout: post
 title:  "HACKSHOW"
 date:   2018-04-10 00:00:00 +0200
-categories: news
+categories: news_og2018
 lang: fr
 permalink:
 published: true

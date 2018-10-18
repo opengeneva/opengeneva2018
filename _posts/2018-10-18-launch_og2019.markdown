@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Open Geneva 2019 | 18th - 24th March 2019"
+date:   2018-10-18 00:00:00 +0200
+categories: news
+og : 2019
+lang: en
+published: true
+---
+
+<img src="{{ site.baseurl }}/images/logo_opengeneva_title_baseline_eng.png" width="40%" alt="" class="imgspace" />
