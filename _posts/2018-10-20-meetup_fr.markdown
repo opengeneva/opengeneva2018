@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "meetup"
 date:   2018-09-29 00:00:00 +0200
 categories: news
 og : 2019

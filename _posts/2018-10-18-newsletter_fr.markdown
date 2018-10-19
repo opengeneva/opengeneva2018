@@ -11,5 +11,5 @@ published: true
 
 
 
-<a href="https://mailchi.mp/399da5ab722d/open-geneva-newsletter"><img src="{{ site.baseurl }}/images/newsletter.png" width="80%" alt="" class="imgspace" /></a>
+<a href="https://mailchi.mp/399da5ab722d/open-geneva-newsletter"><img src="{{ site.baseurl }}/images/newsletter_oct.png" width="80%" alt="" class="imgspace" /></a>
 {% include mailing-list.html %}
