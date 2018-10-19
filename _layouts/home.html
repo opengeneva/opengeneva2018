@@ -21,7 +21,7 @@ layout: default
       {% if post.published and post.lang == page.lang and post.og == 2019 %}
         <br>
         <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} | {{ post.title }}</span>
 
 					<!--
           <h1>
