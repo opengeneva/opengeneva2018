@@ -94,6 +94,9 @@ t:
     main_partners : "Main Partners"
     acceleration_partners: "Acceleration Partners"
     academic_partners : "Academic Partners"
+    subscribe_to_newsletter : "subscribe to the newsletter"
+    subscribe : "Subscribe"
+    latest_news_on_Twitter : "latest news on Twitter"
 
   fr:
     home:
@@ -149,6 +152,9 @@ t:
     main_partners : "Partenaires Principaux"
     acceleration_partners: "Partenaires Accélération"
     academic_partners : "Partneraires Académiques"
+    subscribe_to_newsletter : "S'inscrire à la newsletter"
+    subscribe : "S'inscrire"
+    latest_news_on_Twitter : "rejoignez notre fil Twitter"
 
   zh:
      home:
